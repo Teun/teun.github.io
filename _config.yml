@@ -1,0 +1,12 @@
+name: Teuns loose rounds
+markdown: redcarpet
+pygments: true
+github: https://github.com/teun
+about: I am a web developer and love working on sites that are important enough to many people that the availability and scale merits worrying.
+urls:
+    - text: github
+      url: https://github.com/teun
+    - text: 'mail: teun-at-duynstee.com'
+    - text: about
+      url: /README.html
+      

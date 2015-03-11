@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title> Welcome to my page </title>
+		<title>{% if page.title %} {{ page.title }} {% else %} {{ site.name }} {% endif %}</title>
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,39 +22,32 @@
 		<div class="container">
 
 			<div class="col-sm-3">
-				<h1>Teuns loose rounds</h1>
+				<h1>{{ site.name }}</h1>
 				<img id="about" src="/img/teunduynstee.jpg" height="75px" width="75px" /><br />	
 
 				<strong>navigation</strong><br />
 				<a href="/">home</a> <br />
+				{% for i in site.urls %}
+					<a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
+				{% endfor %}
 				
-					<a class="about" href="https://github.com/teun">github</a><br />
-				
-					<a class="about" href="">mail teun-at-duynstee.com</a><br />
-				
-					<a class="about" href="/README.html">about</a><br />
-				
-				
-				
+				{% if site.about %}
 				<div id="about">
 					<strong>about</strong><br />
-					I am a web developer and love working on sites that are important enough to many people that the availability and scale merits worrying.
+					{{ site.about }}
 				</div>
-				
+				{% endif %}
 			</div>
 
 			<div class="col-sm-8 col-offset-1">
 				
-				<h1>Ideas and loose rounds</h1>
-
-<p>Hi and welcome. I use this site to jot up any ideas that I feel like sharing with the world. I do NOT commit on posting regularly.</p>
-
+				{{ content }}
 				
 				<footer>
-					&copy; Teuns loose rounds
-					 
-						- <a href="https://github.com/teun">https://github.com/teun</a>
-					
+					&copy; {{ site.name }}
+					{% if site.github %} 
+						- <a href="{{ site.github }}">{{ site.github }}</a>
+					{% endif %}
 				</footer>
 			</div>
 		
