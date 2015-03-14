@@ -1,0 +1,41 @@
+#komain.container{
+	padding-top: 48px;
+}
+#currentRoll{
+	margin-bottom: 20px;
+}
+.meh{color: #a66;}
+.great{color: #6a6;}
+.quit-now{
+	font-size: larger;
+	color: #a66;
+}
+.throw-again{
+	font-size: larger;
+	color: #6a6;
+}
+th{
+	padding: 5px;
+}
+.roll-options tr{
+	border-top: solid 1px #aaa;
+}
+.roll-options tr:hover{
+	background-color: #ddd;
+}
+.alt{
+	border-right: solid 1px #aaa;
+}
+.dice-img{
+	width:80px;
+	box-shadow: 10px -3px 5px #ddd;
+}
+.roll-options .dice-img{
+	cursor: pointer;
+}
+.sort-me{
+	cursor: pointer;	
+}
+.roll-options td{
+	padding: 3px;
+}

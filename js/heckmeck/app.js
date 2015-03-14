@@ -3,7 +3,7 @@ define(["require", "exports", "knockout", "dicemodel"], function (require, expor
     var diceFormat = function (d, nr) {
         var res = "";
         for (var j = 0; j < nr; j++) {
-            res += "<img src='" + imgBase + d + ".png' />";
+            res += "<img class='dice-img' src='" + imgBase + d + ".png' />";
         }
         return res;
     };
