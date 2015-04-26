@@ -157,6 +157,7 @@ Pleisterplaats Zonstraat biedt
 - op loopafstand van het parcours en de publiekslocaties met activiteiten; het parcours komt langs het begin van de Zonstraat
 - snacks en drankjes
 - bij voldoende interesse wordt de dag afgesloten met een gezamenlijke maaltijd (BBQ?)
+- wij willen zelf ook graag veel van het evenement meekrijgen, dus we zullen niet altijd thuis zijn. We zorgen voor een aantal sleutelsetjes.
 
 Om 12 uur gaat het evenement van start met de reclame-karavaan. Vanaf 14 uur starten de renners elke minuut voor hun rondje, met de belangrijkste renners het laatst.
 
