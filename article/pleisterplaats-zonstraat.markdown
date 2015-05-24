@@ -148,7 +148,7 @@ scripts: >
 
 ---
 ### Het idee <img src="http://www.dub.uu.nl/sites/default/files/users/4527/images/tour-de-france-2015-utrecht.jpg" width="300px" align="right">
-Op zaterdag 4 juli begint de Tour de France met een proloog in de stad Utrecht. Ons huis ligt precies binnen het parcours. Daarom stellen wij deze dag ons huis open voor alle Tour-geïnteresseerden onder onze vrienden en familie: Pleisterplaats Zonstraat.
+Op zaterdag 4 juli begint de Tour de France met een proloog in de stad Utrecht. Ons huis ligt precies binnen het parcours. Daarom stellen wij (Teun en Marjolein) deze dag ons huis open voor alle Tour-geïnteresseerden onder onze vrienden en familie: Pleisterplaats Zonstraat.
 
 Pleisterplaats Zonstraat biedt
 
