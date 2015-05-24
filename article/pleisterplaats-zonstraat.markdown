@@ -113,7 +113,8 @@ scripts: >
                 {lat:52.092710, lng: 5.127757, title:"Oversteek", text:"Er komt een loopbrug vanaf de Lucasbrug naar de Nachtegaalstraat. Daarmee kan je het parcours oversteken."},
                 {lat:52.082743, lng: 5.155931, title:"Oversteek", text:"Hier komt een loopbrug waarmee je het parcours kan oversteken."},
                 {lat:52.096217, lng: 5.143925, title:"Oversteek", text:"Met de auto kan je alleen hier het parcours doorkruisen. Met de fiets kan je hier nog wel onderdoor, maar NIET het parcours kruisen."},
-                {lng: 5.099490000000001, lat:52.08273, title:"Start", image:{url:"https://cdn3.iconfinder.com/data/icons/transfers/100/239324-finish_flag_goal-128.png", scaledSize:new google.maps.Size(30,30)} }
+                {lng: 5.099490000000001, lat:52.08273, title:"Start", image:{url:"https://cdn3.iconfinder.com/data/icons/transfers/100/239324-finish_flag_goal-128.png", scaledSize:new google.maps.Size(30,30)} },
+                {lng: 5.10772, lat:52.08646, title:"Finish", image:{url:"https://cdn3.iconfinder.com/data/icons/transfers/100/239324-finish_flag_goal-128.png", scaledSize:new google.maps.Size(30,30)} }
                 ];
             points.map(function(point, ix){
                 var marker = new google.maps.Marker({
@@ -146,7 +147,7 @@ scripts: >
     </style>
 
 ---
-### Het idee
+### Het idee <img src="http://www.dub.uu.nl/sites/default/files/users/4527/images/tour-de-france-2015-utrecht.jpg" width="300px" align="right">
 Op zaterdag 4 juli begint de Tour de France met een proloog in de stad Utrecht. Ons huis ligt precies binnen het parcours. Daarom stellen wij deze dag ons huis open voor alle Tour-geïnteresseerden onder onze vrienden en familie: Pleisterplaats Zonstraat.
 
 Pleisterplaats Zonstraat biedt
@@ -157,12 +158,15 @@ Pleisterplaats Zonstraat biedt
 - op loopafstand van het parcours en de publiekslocaties met activiteiten; het parcours komt langs het begin van de Zonstraat
 - snacks en drankjes
 - bij voldoende interesse wordt de dag afgesloten met een gezamenlijke maaltijd (BBQ?)
-- wij willen zelf ook graag veel van het evenement meekrijgen, dus we zullen niet altijd thuis zijn. We zorgen voor een aantal sleutelsetjes.
 
 Om 12 uur gaat het evenement van start met de reclame-karavaan. Vanaf 14 uur starten de renners elke minuut voor hun rondje, met de belangrijkste renners het laatst.
 
 ### Bereikbaarheid
-De ligging binnen het parcours maakt het wel wat lastig om de Pleisterplaats op de dag zelf te bereiken, maar het is wel mogelijk. Het parcours mag **de hele dag niet doorkruist worden**. Door niemand. Ook geen voetgangers. Aangezien het parcours helemaal om onze wijk heen ligt is het best een uitdaging om er te komen. Met de fiets of lopend is het nog wel goed te doen. Er is een aantal plekken waar je met (tijdelijke) bruggen en tunneltjes het parcours over kunt (zie het kaartje hieronder). Bezoekers van buiten per auto zullen naar grote parkeerterreinen worden geleid, anderen komen aan op het Centraal Station. Vanaf deze plekken zullen bussen, leenfietsen en/of de benenwagen je naar het parcours brengen. Hoe dat precies gaat is nog niet helemaal duidelijk, maar dat laten we nog weten.
+De ligging binnen het parcours maakt het wel wat lastig om de Pleisterplaats op de dag zelf te bereiken, maar het is wel mogelijk. Het voordeel is dat je dan wel aan de rustige kant van het parcours staat. 
+
+Het parcours zelf mag **de hele dag (van 5.00 tot 20.00) niet doorkruist worden**. Door niemand, ook geen voetgangers. Aangezien het parcours helemaal om onze wijk heen ligt is het best een uitdaging om er te komen. Met de fiets of lopend is het nog wel te doen. Er is een aantal plekken waar je met (tijdelijke) bruggen en tunneltjes het parcours over kunt (zie het kaartje hieronder). Bezoekers van buiten per auto zullen naar parkeerterreinen aan de buitenkant van het parcours worden geleid, anderen komen aan op het Centraal Station. Vanaf deze plekken zullen waarschijnlijk bussen, OV-fiets en/of de benenwagen je naar het parcours brengen. 
+
+Hoe dit alles precies gaat is nog niet helemaal duidelijk, maar dat laten we nog weten. 
 
 
 
