@@ -166,7 +166,7 @@ De ligging binnen het parcours maakt het wel wat lastig om de Pleisterplaats op 
 
 Het parcours zelf mag **de hele dag (van 5.00 tot 20.00) niet doorkruist worden**. Door niemand, ook geen voetgangers. Aangezien het parcours helemaal om onze wijk heen ligt is het best een uitdaging om er te komen. Met de fiets of lopend is het nog wel te doen. Er is een aantal plekken waar je met (tijdelijke) bruggen en tunneltjes het parcours over kunt (zie het kaartje hieronder). Bezoekers van buiten per auto zullen naar parkeerterreinen aan de buitenkant van het parcours worden geleid, anderen komen aan op het Centraal Station. Vanaf deze plekken zullen waarschijnlijk bussen, OV-fiets en/of de benenwagen je naar het parcours brengen. 
 
-Hoe dit alles precies gaat is nog niet helemaal duidelijk, maar dat laten we nog weten. Graag horen we of jullie zin hebben om langs te komen. Wat minder Tour-minded aanhang is ook van hart welkom bij ons thuis!
+Hoe dit alles precies gaat is nog niet helemaal duidelijk, maar dat laten we nog weten. Graag horen we of jullie zin hebben om langs te komen. Wat minder Tour-minded aanhang is ook van harte welkom bij ons thuis!
 
 
 <div id="map-canvas"></div>
