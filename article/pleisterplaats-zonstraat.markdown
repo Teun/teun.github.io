@@ -108,15 +108,15 @@ scripts: >
               strokeColor:'white'
             };
             var points = [
-                {lat:52.0848963, lng:5.136724, title:"Pleisterplaats Zonstraat", text:"  ", image:teun},
-                {lat:52.0804035, lng:5.1269875, title:"Doorsteek", text:"Op deze plek kunnen voetgangers en fietsers het parcours doorkruisen via de fietserstunneltjes die hier aan beide zijden van het water zijn.", image:{url:'https://cdn1.iconfinder.com/data/icons/travel-line-icons-vol-3/48/096-48.png', anchor:new google.maps.Point(24,24)}},
-                {lat:52.092710, lng: 5.127757, title:"Oversteek", text:"Er komt een loopbrug vanaf de Lucasbrug naar de Nachtegaalstraat. Daarmee kan je het parcours oversteken, maar niet per fiets.", image:{url:'https://cdn0.iconfinder.com/data/icons/car-automation-icons-2/100/Bridge_Assits-48.png', anchor:new google.maps.Point(24,24)}},
-                {lat:52.082743, lng: 5.155931, title:"Oversteek", text:"Hier komt een loopbrug waarmee je het parcours kan oversteken.", image:{url:'https://cdn0.iconfinder.com/data/icons/car-automation-icons-2/100/Bridge_Assits-48.png', anchor:new google.maps.Point(24,24)}},
-                {lat:52.096217, lng: 5.143925, title:"Oversteek", text:"Met de auto en met de fiets kan je hier het parcours doorkruisen. Alleen auto's met een vignet worden naar binnen gelaten.", image:{url:'https://cdn1.iconfinder.com/data/icons/travel-line-icons-vol-3/48/096-48.png', anchor:new google.maps.Point(24,24)}},
+                {lat:52.0848963, lng:5.136724, title:"Pleisterplaats Zonstraat", text:"Zonstraat 77", image:teun},
+                {lat:52.0804035, lng:5.1269875, title:"Doorsteek Albatrosbrug", text:"Op deze plek kunnen voetgangers en fietsers het parcours doorkruisen via de fietstunneltjes die hier aan beide zijden van het water zijn.", image:{url:'https://cdn1.iconfinder.com/data/icons/travel-line-icons-vol-3/48/096-48.png', anchor:new google.maps.Point(24,24)}},
+                {lat:52.092710, lng: 5.127757, title:"Oversteek Lucasbrug/Nachtegaalstraat", text:"Hier komt een loopbrug. Daarmee kan je het parcours oversteken, maar niet per fiets.", image:{url:'https://cdn0.iconfinder.com/data/icons/car-automation-icons-2/100/Bridge_Assits-48.png', anchor:new google.maps.Point(24,24)}},
+                {lat:52.082743, lng: 5.155931, title:"Oversteek Weg tot de Wetenschap", text:"Hier komt een loopbrug. Daarmee kan je het parcours oversteken, maar niet per fiets.", image:{url:'https://cdn0.iconfinder.com/data/icons/car-automation-icons-2/100/Bridge_Assits-48.png', anchor:new google.maps.Point(24,24)}},
+                {lat:52.096217, lng: 5.143925, title:"Oversteek Bildstraat/Berekuil", text:"Met de auto en met de fiets kan je hier het parcours doorkruisen. Alleen auto's met een vignet worden naar binnen gelaten.", image:{url:'https://cdn1.iconfinder.com/data/icons/travel-line-icons-vol-3/48/096-48.png', anchor:new google.maps.Point(24,24)}},
                 {lng: 5.099490000000001, lat:52.08273, title:"Start", image:{url:"https://cdn3.iconfinder.com/data/icons/transfers/100/239324-finish_flag_goal-128.png", scaledSize:new google.maps.Size(30,30)} },
                 {lng: 5.10772, lat:52.08646, title:"Finish", image:{url:"https://cdn3.iconfinder.com/data/icons/transfers/100/239324-finish_flag_goal-128.png", scaledSize:new google.maps.Size(30,30)} },
-                {lat:52.082129, lng:5.138833, title:"Diakonessehuis", text:"Er is een busdienst vanaf het UMC voor bezoekers aan het Diakonessehuis.", image:{url:'https://cdn0.iconfinder.com/data/icons/fire/106/cross_1-32.png', anchor:new google.maps.Point(24,24)}},
-                {lat:52.088851, lng:5.180359, title:"UMC", text:"Bezoekers aan het Diakonessehuis kunnen hier parkeren en de bus nemen. <a href='http://www.diakonessenhuis.nl/Pub/tourdefrance/Vraag-en-antwoord-bereikbaarheid-tijdens-tour-de-france'>site Diakonessehuis</a>", image:{url:'https://cdn0.iconfinder.com/data/icons/fire/106/cross_1-32.png', anchor:new google.maps.Point(24,24)}},
+                {lat:52.083207, lng:5.140121, title:"Bushalte Diakonessenhuis", text:"Er is een speciale busdienst (lijn 304) vanaf het UMC voor bezoekers aan het Diakonessenhuis.", image:{url:'https://cdn1.iconfinder.com/data/icons/maps-and-locations/16/bus-stop-32.png', anchor:new google.maps.Point(16,16)}},
+                {lat:52.088851, lng:5.180359, title:"UMC", text:"Bezoekers aan het Diakonessenhuis kunnen hier parkeren en de bus nemen. <a href='http://www.diakonessenhuis.nl/Pub/tourdefrance/Vraag-en-antwoord-bereikbaarheid-tijdens-tour-de-france'>site Diakonessehuis</a>", image:{url:'https://cdn1.iconfinder.com/data/icons/maps-and-locations/16/bus-stop-32.png', anchor:new google.maps.Point(16,16)}},
                 
                 ];
             points.map(function(point, ix){
@@ -160,31 +160,27 @@ Pleisterplaats Zonstraat biedt
 - een schone WC
 - op loopafstand van het parcours en de publiekslocaties met activiteiten; het parcours komt langs het begin van de Zonstraat
 - snacks en drankjes
-- bij voldoende interesse wordt de dag afgesloten met een gezamenlijke maaltijd (BBQ?)
+- je kan blijven eten
 
-Om 12 uur gaat het evenement van start met de reclame-karavaan. Vanaf 14 uur starten de renners elke minuut voor hun rondje, met de belangrijkste renners het laatst.
+Om 12 uur gaat het evenement van start met de reclame-karavaan. Vanaf 14 uur starten de renners elke minuut voor hun rondje, met de belangrijkste renners het laatst. De laatste zal naar verwachting rond 17.30 finishen.
 
 ### Bereikbaarheid
 De ligging binnen het parcours maakt het wel wat lastig om de Pleisterplaats op de dag zelf te bereiken, maar het is wel mogelijk. Het voordeel is dat je dan wel aan de rustige kant van het parcours staat. 
 
-Het parcours zelf mag **de hele dag (van 5.00 tot 20.00) niet doorkruist worden**. Door niemand, ook geen voetgangers. Aangezien het parcours helemaal om onze wijk heen ligt is het best een uitdaging om er te komen. Met de fiets of lopend is het nog wel te doen. Er is een aantal plekken waar je met (tijdelijke) bruggen en tunneltjes het parcours over kunt (zie het kaartje hieronder). Hieronder een paar uitgewerkte opties. 
+Het parcours zelf mag **de hele dag (van 5.00 tot 20.00) niet doorkruist worden**. Door niemand, ook geen voetgangers. Aangezien het parcours helemaal om onze wijk heen ligt is het best een uitdaging om er te komen. Hieronder een paar uitgewerkte opties. 
 
 #### Fietsen of lopen
-Als je uit de omgeving komt, kan je het beste komen lopen of fietsen. Kijk op het kaartje hieronder waar je het parcours kunt doorkruisen. 
+Als je uit de omgeving komt, kan je het beste komen lopen of fietsen. Er is een aantal plekken waar je met (tijdelijke) bruggen en tunneltjes het parcours over kunt (zie het kaartje hieronder). Zie ook de speciale <a href="http://letourutrecht.fietsersbond.nl/" target="_blank">Tour de France editie van de fietsrouteplanner</a> van de Fietsersbond.
 
 #### Openbaar vervoer
-Met de trein kan je goed in Utrecht komen, maar de bussen rijden niet naar onze wijk. Het beste kan je waarschijnlijk gewoon gaan lopen. <a href='https://www.google.nl/maps/dir/Utrecht+Centraal/Zonstraat+77,+Utrecht,+Nederland/@52.0890394,5.1144841,15z/data=!3m1!4b1!4m19!4m18!1m10!1m1!1s0x47c66f5d64964503:0xad0f4195e0bf6027!2m2!1d5.109861!2d52.089398!3m4!1m2!1d5.1289822!2d52.0926372!3s0x47c66f4e66c35a2b:0x8a17ae6c4701b17f!1m5!1m1!1s0x47c668ac9feb9f35:0x6f276f5d4ddd53b3!2m2!1d5.1367139!2d52.08489!3e2?hl=en' target='_blank'>Via deze route</a> loop je in 35 minuten naar ons huis. Je gaat dan met de loopbrug bij het Lucasbolwerk over het parcours heen. Het is een leuke route waarbij je langs veel van de feestlocaties in de stad komt.
+Met de trein kan je goed in Utrecht komen, maar de bussen naar onze wijk rijden niet. Het beste kan je waarschijnlijk gewoon gaan lopen. <a href='https://www.google.nl/maps/dir/Utrecht+Centraal/Zonstraat+77,+Utrecht,+Nederland/@52.0890394,5.1144841,15z/data=!3m1!4b1!4m19!4m18!1m10!1m1!1s0x47c66f5d64964503:0xad0f4195e0bf6027!2m2!1d5.109861!2d52.089398!3m4!1m2!1d5.1289822!2d52.0926372!3s0x47c66f4e66c35a2b:0x8a17ae6c4701b17f!1m5!1m1!1s0x47c668ac9feb9f35:0x6f276f5d4ddd53b3!2m2!1d5.1367139!2d52.08489!3e2?hl=en' target='_blank'>Via deze route</a> loop je in 35 minuten naar ons huis. Je gaat dan met de loopbrug bij het Lucasbolwerk over het parcours heen. Het is een leuke route waarbij je langs veel van de feestlocaties in de stad komt.
 
 #### Auto
 Met de auto werkt het ongeveer zo: er zijn een aantal "Transferia" rondom de stad. Vanaf die plekken kan je vervoerd worden naar het parcours. <a href='http://www.tourdefranceutrecht.com/bereikbaarheid_auto' target='_blank'>Hier alle details.</a> Probleem is natuurlijk dat je dan naar de buitenkant van het parcours wordt gebracht en dan helemaal niet makkelijk bij ons huis komt. De beste combinatie is waarschijnlijk om het transferium Bunnik te gebruiken. Vandaar gaan bussen naar stadion Galgenwaard (daar is een grote publiekslocatie ingericht langs het parcours). Maar dan is het nog ruim een half uur <a href='https://www.google.nl/maps/dir/Stadion+Galgenwaard,+Utrecht/Zonstraat+77,+Utrecht,+Nederland/@52.0827527,5.1438703,16z/data=!4m19!4m18!1m10!1m1!1s0x47c66602a52c526f:0xee928217d0be4040!2m2!1d5.145824!2d52.078364!3m4!1m2!1d5.156029!2d52.0827763!3s0x47c668a139740fdd:0x6fd0a812dc6c23b0!1m5!1m1!1s0x47c668ac9feb9f35:0x6f276f5d4ddd53b3!2m2!1d5.1367139!2d52.08489!3e2?hl=en' target='_blank'>lopen via deze route</a>.
 
-#### Auto, geheimtip
-Er is een "geheim" alternatief. Vlak bij ons om de hoek is het ziekenhuis Diakonessenhuis. Om te zorgen dat de zieken daar bezocht kunnen worden is er een aparte busverbinding voor deze dagen opgezet. Als je daarvan gebruik maakt, rijd je naar het UMC, volgt de borden '[P] WKZ | UMC | Diakonessenhuis'. Daar neem je <a href='http://u-ov.info/lijn/u304/1/20150704' target='_blank'>de speciale bus 304</a> en die brengt je in ongeveer 20 minuten tot vlak bij ons. Het is op zich een gewone bus, dus ik denk niet dat het asociaal is om het te nemen of dat je je met fruitmanden dient te vermommen.
+**Maar er is een betere manier**. Vlak bij ons om de hoek is het ziekenhuis Diakonessenhuis. Mede om te zorgen dat de zieken daar bezocht kunnen worden is er een aparte busverbinding voor deze dagen opgezet. Als je daarvan gebruik maakt, rijd je naar het UMC, volgt de borden '[P] WKZ | UMC | Diakonessenhuis'. Daar neem je <a href='http://u-ov.info/lijn/u304/1/20150704' target='_blank'>de speciale bus 304</a> en die brengt je in ongeveer 20 minuten tot vlak bij ons huis. Voor de parkeerplaats moet een dagkaart gekocht worden. In de bus is de OV-chipkaart geldig.
 
 #### Boot
-Ons huis is ook per kano goed te bereiken en over het water heb je geen last van het parcours. Die kan je bijvoorbeeld <a href='http://kanoverhuurutrecht.nl/' target='_blank'>huren in de binnestad (aan de Oudegracht)</a>, maar misschien zijn die allemaal al lang gereserveerd.
-
-Graag horen we of jullie zin hebben om langs te komen. Wat minder Tour-minded aanhang is ook van harte welkom bij ons thuis!
-
+Ons huis is ook per kano goed te bereiken en over het water heb je geen last van het parcours. Kano's kan je <a href='http://kanoverhuurutrecht.nl/' target='_blank'>huren in de binnenstad (aan de Oudegracht)</a>, maar misschien zijn die allemaal al lang gereserveerd.
 
 <div id="map-canvas"></div>
