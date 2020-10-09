@@ -1,0 +1,1571 @@
+name	emoji	codepoint	count
+Sebastiaan Grasdijk	👌	1f44c	11
+Sebastiaan Grasdijk	😂	1f602	5
+Sebastiaan Grasdijk	🤛	1f91b	1
+Sebastiaan Grasdijk	🎓	1f393	1
+Sebastiaan Grasdijk	📜	1f4dc	1
+Sebastiaan Grasdijk	🥂	1f942	2
+Sebastiaan Grasdijk	🎶	1f3b6	1
+Sebastiaan Grasdijk	😋	1f60b	1
+Sebastiaan Grasdijk	🍻	1f37b	1
+Sebastiaan Grasdijk	👀	1f440	1
+Sebastiaan Grasdijk	😔	1f614	1
+Sebastiaan Grasdijk	🕵	1f575	1
+Sebastiaan Grasdijk	♂	2642	1
+Sebastiaan Grasdijk	😍	1f60d	2
+Sebastiaan Grasdijk	💯	1f4af	1
+Sebastiaan Grasdijk	👆	1f446	1
+Sebastiaan Grasdijk	👑	1f451	1
+Sebastiaan Grasdijk	🙌	1f64c	1
+Paul Wibrink	🍻	1f37b	6
+Paul Wibrink	😉	1f609	24
+Paul Wibrink	🍺	1f37a	2
+Paul Wibrink	😈	1f608	2
+Paul Wibrink	👍	1f44d	14
+Paul Wibrink	😂	1f602	16
+Paul Wibrink	😇	1f607	1
+Paul Wibrink	🤔	1f914	4
+Paul Wibrink	😎	1f60e	12
+Paul Wibrink	😀	1f600	12
+Paul Wibrink	😁	1f601	11
+Paul Wibrink	🎶	1f3b6	2
+Paul Wibrink	🎵	1f3b5	1
+Paul Wibrink	😃	1f603	7
+Paul Wibrink	😊	1f60a	2
+Paul Wibrink	🍪	1f36a	1
+Paul Wibrink	🔥	1f525	1
+Paul Wibrink	🤓	1f913	1
+Paul Wibrink	👏	1f44f	1
+Paul Wibrink	🙂	1f642	1
+Paul Wibrink	🤫	1f92b	1
+Paul Wibrink	🙃	1f643	4
+Paul Wibrink	☺	263a	1
+Paul Wibrink	🐝	1f41d	1
+Paul Wibrink	😄	1f604	2
+Paul Wibrink	✋	270b	1
+Paul Wibrink	👊	1f44a	1
+Paul Wibrink	🤝	1f91d	1
+Paul Wibrink	🥇	1f947	1
+Paul Wibrink	👉	1f449	1
+Paul Wibrink	🤣	1f923	5
+Paul Wibrink	🎊	1f38a	1
+Paul Wibrink	🎉	1f389	1
+Paul Wibrink	🎂	1f382	1
+Paul Wibrink	😷	1f637	1
+Paul Wibrink	👑	1f451	1
+Paul Wibrink	😮	1f62e	1
+Paul Wibrink	🤐	1f910	2
+Tonko Jansen	😃	1f603	29
+Tonko Jansen	😂	1f602	15
+Tonko Jansen	😜	1f61c	16
+Tonko Jansen	👊	1f44a	12
+Tonko Jansen	👍	1f44d	6
+Tonko Jansen	🏼	1f3fc	3
+Tonko Jansen	😢	1f622	1
+Tonko Jansen	⛱	26f1	1
+Tonko Jansen	😱	1f631	2
+Tonko Jansen	📯	1f4ef	1
+Tonko Jansen	🎶	1f3b6	59
+Tonko Jansen	🎵	1f3b5	7
+Tonko Jansen	🤣	1f923	18
+Tonko Jansen	≠	2260	1
+Tonko Jansen	🎂	1f382	10
+Tonko Jansen	😁	1f601	16
+Tonko Jansen	🤗	1f917	1
+Tonko Jansen	😀	1f600	1
+Tonko Jansen	🎼	1f3bc	2
+Tonko Jansen	🎇	1f387	6
+Tonko Jansen	😍	1f60d	14
+Tonko Jansen	🛢	1f6e2	1
+Tonko Jansen	🍾	1f37e	8
+Tonko Jansen	🤪	1f92a	2
+Tonko Jansen	😄	1f604	6
+Tonko Jansen	🏻	1f3fb	8
+Tonko Jansen	💣	1f4a3	1
+Tonko Jansen	🍻	1f37b	2
+Tonko Jansen	🥂	1f942	4
+Tonko Jansen	🥳	1f973	6
+Tonko Jansen	🥁	1f941	4
+Tonko Jansen	⭐	2b50	4
+Tonko Jansen	🍆	1f346	3
+Tonko Jansen	🍑	1f351	2
+Tonko Jansen	🤘	1f918	1
+Tonko Jansen	😻	1f63b	1
+Tonko Jansen	✅	2705	3
+Tonko Jansen	😕	1f615	1
+Tonko Jansen	♀	2640	1
+Hans Ebbers	💪	1f4aa	47
+Hans Ebbers	🎶	1f3b6	123
+Hans Ebbers	😎	1f60e	11
+Hans Ebbers	😂	1f602	166
+Hans Ebbers	🤗	1f917	10
+Hans Ebbers	🏼	1f3fc	7
+Hans Ebbers	🏻	1f3fb	103
+Hans Ebbers	👍	1f44d	59
+Hans Ebbers	😉	1f609	102
+Hans Ebbers	🎵	1f3b5	38
+Hans Ebbers	👊	1f44a	9
+Hans Ebbers	👌	1f44c	7
+Hans Ebbers	☠	2620	1
+Hans Ebbers	💀	1f480	1
+Hans Ebbers	🤠	1f920	12
+Hans Ebbers	🙄	1f644	2
+Hans Ebbers	🍧	1f367	3
+Hans Ebbers	😜	1f61c	72
+Hans Ebbers	🏾	1f3fe	1
+Hans Ebbers	🍕	1f355	2
+Hans Ebbers	😱	1f631	14
+Hans Ebbers	😗	1f617	2
+Hans Ebbers	😙	1f619	2
+Hans Ebbers	😚	1f61a	1
+Hans Ebbers	☺	263a	2
+Hans Ebbers	🙂	1f642	10
+Hans Ebbers	😄	1f604	3
+Hans Ebbers	⚘	2698	1
+Hans Ebbers	🌷	1f337	1
+Hans Ebbers	🌻	1f33b	1
+Hans Ebbers	🌼	1f33c	1
+Hans Ebbers	🌺	1f33a	1
+Hans Ebbers	🌹	1f339	1
+Hans Ebbers	🥀	1f940	1
+Hans Ebbers	🍀	1f340	1
+Hans Ebbers	☘	2618	1
+Hans Ebbers	🌿	1f33f	1
+Hans Ebbers	🌾	1f33e	1
+Hans Ebbers	🎆	1f386	1
+Hans Ebbers	🎇	1f387	1
+Hans Ebbers	✨	2728	1
+Hans Ebbers	🎈	1f388	1
+Hans Ebbers	🎉	1f389	4
+Hans Ebbers	🎖	1f396	1
+Hans Ebbers	🏆	1f3c6	1
+Hans Ebbers	🏅	1f3c5	1
+Hans Ebbers	☀	2600	1
+Hans Ebbers	🌝	1f31d	1
+Hans Ebbers	🌞	1f31e	2
+Hans Ebbers	🌠	1f320	1
+Hans Ebbers	🥁	1f941	2
+Hans Ebbers	🎺	1f3ba	1
+Hans Ebbers	😘	1f618	31
+Hans Ebbers	🤡	1f921	1
+Hans Ebbers	🚂	1f682	1
+Hans Ebbers	😇	1f607	6
+Hans Ebbers	🤓	1f913	3
+Hans Ebbers	😍	1f60d	6
+Hans Ebbers	🤑	1f911	3
+Hans Ebbers	🏽	1f3fd	1
+Hans Ebbers	😳	1f633	5
+Hans Ebbers	😴	1f634	4
+Hans Ebbers	💩	1f4a9	1
+Hans Ebbers	👞	1f45e	1
+Hans Ebbers	🏚	1f3da	2
+Hans Ebbers	💰	1f4b0	1
+Hans Ebbers	😋	1f60b	12
+Hans Ebbers	🎼	1f3bc	17
+Hans Ebbers	😅	1f605	8
+Hans Ebbers	🔥	1f525	2
+Hans Ebbers	🤣	1f923	35
+Hans Ebbers	🚫	1f6ab	1
+Hans Ebbers	🤔	1f914	17
+Hans Ebbers	🍤	1f364	1
+Hans Ebbers	🧐	1f9d0	7
+Hans Ebbers	🍻	1f37b	6
+Hans Ebbers	👏	1f44f	4
+Hans Ebbers	🍬	1f36c	2
+Hans Ebbers	🍡	1f361	1
+Hans Ebbers	🎂	1f382	2
+Hans Ebbers	🍊	1f34a	1
+Hans Ebbers	🤨	1f928	3
+Hans Ebbers	🥮	1f96e	1
+Hans Ebbers	🥳	1f973	4
+Hans Ebbers	🥺	1f97a	1
+Hans Ebbers	🤯	1f92f	6
+Hans Ebbers	🐣	1f423	1
+Hans Ebbers	👶	1f476	2
+Hans Ebbers	🤪	1f92a	16
+Hans Ebbers	🎻	1f3bb	1
+Hans Ebbers	🎷	1f3b7	1
+Hans Ebbers	💻	1f4bb	1
+Hans Ebbers	😃	1f603	3
+Hans Ebbers	🤫	1f92b	13
+Hans Ebbers	😊	1f60a	3
+Hans Ebbers	🍺	1f37a	4
+Hans Ebbers	🍞	1f35e	1
+Hans Ebbers	🥖	1f956	1
+Hans Ebbers	🧀	1f9c0	1
+Hans Ebbers	😡	1f621	3
+Hans Ebbers	🥵	1f975	2
+Hans Ebbers	🥂	1f942	1
+Hans Ebbers	🍷	1f377	1
+Hans Ebbers	🚵	1f6b5	1
+Hans Ebbers	♀	2640	1
+Hans Ebbers	💫	1f4ab	1
+Hans Ebbers	🥰	1f970	3
+Hans Ebbers	🥴	1f974	8
+Hans Ebbers	🥊	1f94a	1
+Hans Ebbers	🥽	1f97d	1
+Hans Ebbers	🌂	1f302	1
+Hans Ebbers	⛑	26d1	1
+Hans Ebbers	😏	1f60f	3
+Hans Ebbers	🕺	1f57a	3
+Hans Ebbers	🔔	1f514	1
+Hans Ebbers	🧟	1f9df	2
+Hans Ebbers	♂	2642	6
+Hans Ebbers	🎊	1f38a	2
+Hans Ebbers	🤭	1f92d	2
+Hans Ebbers	🙃	1f643	3
+Hans Ebbers	💙	1f499	1
+Hans Ebbers	🧙	1f9d9	1
+Hans Ebbers	🎃	1f383	1
+Hans Ebbers	🗿	1f5ff	1
+Hans Ebbers	💅	1f485	1
+Hans Ebbers	💆	1f486	1
+Hans Ebbers	🤐	1f910	1
+Hans Ebbers	🤩	1f929	3
+Hans Ebbers	😁	1f601	3
+Hans Ebbers	🎡	1f3a1	1
+Hans Ebbers	🧘	1f9d8	1
+Hans Ebbers	🥇	1f947	1
+Hans Ebbers	🤬	1f92c	1
+Hans Ebbers	😈	1f608	2
+Hans Ebbers	😪	1f62a	2
+Hans Ebbers	😀	1f600	1
+Hans Ebbers	😛	1f61b	1
+Hans Ebbers	👀	1f440	1
+Hans Ebbers	🔜	1f51c	1
+Hans Ebbers	👻	1f47b	1
+Hans Ebbers	🧞	1f9de	1
+Hans Ebbers	🧚	1f9da	1
+Hans Ebbers	👙	1f459	2
+Hans Ebbers	🎒	1f392	1
+Hans Ebbers	🐉	1f409	2
+Hans Ebbers	🌪	1f32a	2
+Hans Ebbers	🌊	1f30a	2
+Hans Ebbers	🍹	1f379	1
+Hans Ebbers	🤾	1f93e	1
+Hans Ebbers	🎯	1f3af	1
+Hans Ebbers	💺	1f4ba	1
+Hans Ebbers	💶	1f4b6	1
+Hans Ebbers	🔪	1f52a	2
+Hans Ebbers	🎎	1f38e	1
+Hans Ebbers	😟	1f61f	1
+Hans Ebbers	😖	1f616	1
+Hans Ebbers	☝	261d	1
+Hans Ebbers	🚗	1f697	1
+Hans Ebbers	🚙	1f699	1
+Hans Ebbers	🐡	1f421	1
+Hans Ebbers	😝	1f61d	1
+Hans Ebbers	🍇	1f347	2
+Hans Ebbers	🤸	1f938	1
+Hans Ebbers	🧤	1f9e4	1
+Kees Visser	😂	1f602	62
+Kees Visser	😉	1f609	38
+Kees Visser	😘	1f618	4
+Kees Visser	😣	1f623	2
+Kees Visser	😙	1f619	5
+Kees Visser	😚	1f61a	5
+Kees Visser	😀	1f600	6
+Kees Visser	😝	1f61d	1
+Kees Visser	😊	1f60a	3
+Kees Visser	👍	1f44d	2
+Kees Visser	🙈	1f648	7
+Kees Visser	😐	1f610	1
+Kees Visser	🎂	1f382	1
+Kees Visser	🍰	1f370	1
+Kees Visser	🍨	1f368	1
+Kees Visser	🍦	1f366	1
+Kees Visser	😁	1f601	13
+Kees Visser	😆	1f606	4
+Kees Visser	😅	1f605	1
+Kees Visser	😫	1f62b	3
+Kees Visser	😥	1f625	1
+Kees Visser	👏	1f44f	1
+Kees Visser	😋	1f60b	5
+Kees Visser	😄	1f604	3
+Kees Visser	🙊	1f64a	1
+Teun Duynstee	😘	1f618	6
+Teun Duynstee	😧	1f627	1
+Teun Duynstee	😂	1f602	10
+Teun Duynstee	🤣	1f923	13
+Teun Duynstee	😉	1f609	15
+Teun Duynstee	😀	1f600	6
+Teun Duynstee	🎊	1f38a	1
+Teun Duynstee	🎶	1f3b6	31
+Teun Duynstee	🦉	1f989	1
+Teun Duynstee	🎉	1f389	4
+Teun Duynstee	😕	1f615	4
+Teun Duynstee	🐯	1f42f	1
+Teun Duynstee	🦀	1f980	1
+Teun Duynstee	🏅	1f3c5	1
+Teun Duynstee	✊	270a	1
+Teun Duynstee	🙄	1f644	4
+Teun Duynstee	🎼	1f3bc	34
+Teun Duynstee	😃	1f603	5
+Teun Duynstee	😄	1f604	28
+Teun Duynstee	🤓	1f913	3
+Teun Duynstee	🎺	1f3ba	2
+Teun Duynstee	🎷	1f3b7	1
+Teun Duynstee	🙂	1f642	5
+Teun Duynstee	🤛	1f91b	1
+Teun Duynstee	😆	1f606	4
+Teun Duynstee	🥨	1f968	1
+Teun Duynstee	🥁	1f941	1
+Teun Duynstee	😊	1f60a	1
+Teun Duynstee	🐌	1f40c	1
+Teun Duynstee	😥	1f625	1
+Teun Duynstee	🎵	1f3b5	5
+Teun Duynstee	🎩	1f3a9	2
+Teun Duynstee	🤭	1f92d	1
+Teun Duynstee	🍔	1f354	1
+Teun Duynstee	🐒	1f412	1
+Teun Duynstee	➡	27a1	1
+Teun Duynstee	🐝	1f41d	3
+Teun Duynstee	😅	1f605	6
+Teun Duynstee	😛	1f61b	1
+Teun Duynstee	🤬	1f92c	1
+Teun Duynstee	♫	266b	1
+Teun Duynstee	🤔	1f914	1
+Teun Duynstee	😲	1f632	2
+Teun Duynstee	😶	1f636	1
+Teun Duynstee	😳	1f633	5
+Teun Duynstee	💯	1f4af	3
+Teun Duynstee	☝	261d	2
+Teun Duynstee	😬	1f62c	1
+Teun Duynstee	💷	1f4b7	1
+Teun Duynstee	😱	1f631	1
+Teun Duynstee	👆	1f446	1
+Teun Duynstee	🏽	1f3fd	1
+Teun Duynstee	😮	1f62e	1
+Teun Duynstee	🧃	1f9c3	1
+Teun Duynstee	🦕	1f995	1
+Teun Duynstee	🦚	1f99a	2
+Teun Duynstee	🍺	1f37a	1
+Teun Duynstee	🎯	1f3af	1
+Teun Duynstee	🤨	1f928	1
+Teun Duynstee	🐑	1f411	1
+Teun Duynstee	😨	1f628	1
+Tim Bakker	😆	1f606	4
+Tim Bakker	😃	1f603	2
+Tim Bakker	☕	2615	1
+Tim Bakker	🤔	1f914	6
+Tim Bakker	🤓	1f913	1
+Tim Bakker	😊	1f60a	1
+Tim Bakker	👌	1f44c	2
+Tim Bakker	🏻	1f3fb	20
+Tim Bakker	😜	1f61c	9
+Tim Bakker	🌭	1f32d	1
+Tim Bakker	🌝	1f31d	1
+Tim Bakker	💪	1f4aa	5
+Tim Bakker	🛴	1f6f4	1
+Tim Bakker	💨	1f4a8	4
+Tim Bakker	🤜	1f91c	3
+Tim Bakker	😂	1f602	38
+Tim Bakker	🍻	1f37b	7
+Tim Bakker	😅	1f605	11
+Tim Bakker	❌	274c	5
+Tim Bakker	😱	1f631	11
+Tim Bakker	😘	1f618	1
+Tim Bakker	🙋	1f64b	4
+Tim Bakker	🏼	1f3fc	4
+Tim Bakker	♂	2642	4
+Tim Bakker	🧐	1f9d0	4
+Tim Bakker	😒	1f612	1
+Tim Bakker	😕	1f615	1
+Tim Bakker	👨	1f468	4
+Tim Bakker	🌾	1f33e	1
+Tim Bakker	🚜	1f69c	1
+Tim Bakker	🗼	1f5fc	1
+Tim Bakker	🚀	1f680	1
+Tim Bakker	🚘	1f698	1
+Tim Bakker	✅	2705	3
+Tim Bakker	🛫	1f6eb	1
+Tim Bakker	🏞	1f3de	1
+Tim Bakker	🌌	1f30c	1
+Tim Bakker	🛰	1f6f0	1
+Tim Bakker	🛸	1f6f8	1
+Tim Bakker	🛬	1f6ec	1
+Tim Bakker	🌊	1f30a	1
+Tim Bakker	🛶	1f6f6	1
+Tim Bakker	🌇	1f307	1
+Tim Bakker	🌆	1f306	1
+Tim Bakker	🏙	1f3d9	1
+Tim Bakker	🌃	1f303	1
+Tim Bakker	👋	1f44b	1
+Tim Bakker	🤰	1f930	1
+Tim Bakker	🏽	1f3fd	1
+Tim Bakker	😬	1f62c	1
+Tim Bakker	😢	1f622	4
+Tim Bakker	🙊	1f64a	1
+Tim Bakker	🙌	1f64c	2
+Tim Bakker	☝	261d	1
+Tim Bakker	🦆	1f986	1
+Tim Bakker	🤤	1f924	1
+Tim Bakker	🍷	1f377	2
+Tim Bakker	🎵	1f3b5	1
+Tim Bakker	🙃	1f643	3
+Tim Bakker	🚙	1f699	1
+Tim Bakker	🎩	1f3a9	1
+Tim Bakker	🎼	1f3bc	3
+Tim Bakker	🤯	1f92f	1
+Tim Bakker	✉	2709	1
+Tim Bakker	💌	1f48c	2
+Tim Bakker	📦	1f4e6	1
+Tim Bakker	❗	2757	3
+Tim Bakker	🎉	1f389	18
+Tim Bakker	🛤	1f6e4	1
+Tim Bakker	🚅	1f685	1
+Tim Bakker	😯	1f62f	2
+Tim Bakker	🍺	1f37a	2
+Tim Bakker	👍	1f44d	4
+Tim Bakker	👴	1f474	2
+Tim Bakker	😉	1f609	1
+Tim Bakker	😄	1f604	6
+Tim Bakker	🔔	1f514	1
+Tim Bakker	⚽	26bd	1
+Tim Bakker	👉	1f449	1
+Tim Bakker	👊	1f44a	1
+Tim Bakker	👻	1f47b	1
+Tim Bakker	😮	1f62e	1
+Tim Bakker	😍	1f60d	1
+Tim Bakker	🏠	1f3e0	1
+Tim Bakker	💻	1f4bb	1
+Tim Bakker	👼	1f47c	1
+Tim Bakker	💸	1f4b8	4
+Tim Bakker	📈	1f4c8	1
+Tim Bakker	🎤	1f3a4	1
+Tim Bakker	🍌	1f34c	1
+Tim Bakker	🙈	1f648	1
+Tim Bakker	☺	263a	1
+Tim Bakker	🔥	1f525	2
+Tim Bakker	🔁	1f501	1
+Tim Bakker	📠	1f4e0	1
+Tim Bakker	📩	1f4e9	1
+Tim Bakker	🎄	1f384	2
+Tim Bakker	🍽	1f37d	1
+Tim Bakker	🍸	1f378	1
+Tim Bakker	🌴	1f334	1
+Tim Bakker	☀	2600	1
+Tim Bakker	🤛	1f91b	1
+Tim Bakker	🚌	1f68c	1
+Tim Bakker	✈	2708	1
+Tim Bakker	❤	2764	2
+Tim Bakker	😑	1f611	2
+Tim Bakker	😝	1f61d	2
+Tim Bakker	🤵	1f935	1
+Tim Bakker	👆	1f446	1
+Tim Bakker	🤭	1f92d	1
+Tim Bakker	🎶	1f3b6	1
+Tim Bakker	😩	1f629	1
+Tim Bakker	😇	1f607	1
+Tim Bakker	🍳	1f373	1
+Tim Bakker	🐺	1f43a	1
+Tim Bakker	😓	1f613	1
+Arjan Huizinga	🎉	1f389	5
+Arjan Huizinga	🎊	1f38a	4
+Arjan Huizinga	😜	1f61c	15
+Arjan Huizinga	😁	1f601	5
+Arjan Huizinga	😂	1f602	21
+Arjan Huizinga	😬	1f62c	1
+Arjan Huizinga	😝	1f61d	2
+Arjan Huizinga	😘	1f618	5
+Arjan Huizinga	👍	1f44d	7
+Arjan Huizinga	🏻	1f3fb	19
+Arjan Huizinga	💪	1f4aa	13
+Arjan Huizinga	🙈	1f648	3
+Arjan Huizinga	😉	1f609	1
+Arjan Huizinga	😢	1f622	2
+Arjan Huizinga	🙂	1f642	1
+Arjan Huizinga	😃	1f603	4
+Arjan Huizinga	😱	1f631	1
+Arjan Huizinga	🤔	1f914	1
+Arjan Huizinga	🧐	1f9d0	1
+Arjan Huizinga	😩	1f629	1
+Arjan Huizinga	😅	1f605	1
+Arjan Huizinga	😀	1f600	1
+Arjan Huizinga	😛	1f61b	1
+Arjan Huizinga	🥳	1f973	2
+Arjan Huizinga	🙏	1f64f	1
+Arjan Huizinga	☹	2639	1
+Arjan Huizinga	🤩	1f929	1
+Arjan Huizinga	🎶	1f3b6	1
+Scott	👌	1f44c	1
+Scott	😊	1f60a	1
+Scott	☹	2639	1
+Scott	😃	1f603	2
+Scott	😢	1f622	1
+Scott	🤗	1f917	1
+Scott	😂	1f602	4
+Scott	😍	1f60d	2
+Scott	🤣	1f923	2
+Scott	😮	1f62e	1
+Scott	🙈	1f648	2
+Scott	😁	1f601	1
+Scott	😝	1f61d	1
+Maurits de Kuijper	😄	1f604	2
+Maurits de Kuijper	👌	1f44c	3
+Maurits de Kuijper	🏻	1f3fb	4
+Maurits de Kuijper	😢	1f622	1
+Maurits de Kuijper	😜	1f61c	2
+Maurits de Kuijper	🎈	1f388	1
+Maurits de Kuijper	🍾	1f37e	4
+Maurits de Kuijper	😂	1f602	3
+Maurits de Kuijper	🎂	1f382	6
+Maurits de Kuijper	🍰	1f370	2
+Maurits de Kuijper	🍻	1f37b	3
+Maurits de Kuijper	😇	1f607	1
+Maurits de Kuijper	😁	1f601	4
+Maurits de Kuijper	😀	1f600	1
+Maurits de Kuijper	🎊	1f38a	2
+Maurits de Kuijper	😃	1f603	1
+Maurits de Kuijper	🎉	1f389	3
+Maurits de Kuijper	😯	1f62f	1
+Maurits de Kuijper	🐝	1f41d	2
+Maurits de Kuijper	😊	1f60a	4
+Maurits de Kuijper	🥂	1f942	1
+Maurits de Kuijper	🍔	1f354	1
+Maurits de Kuijper	🍟	1f35f	1
+Maurits de Kuijper	🥳	1f973	9
+Maurits de Kuijper	🤘	1f918	1
+Maurits de Kuijper	✔	2714	1
+Maurits de Kuijper	♾	267e	1
+Maurits de Kuijper	🖖	1f596	1
+Maurits de Kuijper	😉	1f609	1
+Karel van der Lingen	✔	2714	18
+Karel van der Lingen	😘	1f618	13
+Karel van der Lingen	🎵	1f3b5	27
+Karel van der Lingen	😥	1f625	1
+Karel van der Lingen	🎉	1f389	16
+Karel van der Lingen	👍	1f44d	5
+Karel van der Lingen	🎶	1f3b6	33
+Karel van der Lingen	👌	1f44c	4
+Karel van der Lingen	🙏	1f64f	1
+Karel van der Lingen	🎼	1f3bc	29
+Karel van der Lingen	😩	1f629	1
+Karel van der Lingen	😆	1f606	1
+Karel van der Lingen	❗	2757	1
+Karel van der Lingen	🍺	1f37a	1
+Karel van der Lingen	🤣	1f923	3
+Karel van der Lingen	🙈	1f648	2
+Karel van der Lingen	✋	270b	1
+Karel van der Lingen	🎊	1f38a	3
+Karel van der Lingen	🥁	1f941	2
+Karel van der Lingen	🤚	1f91a	1
+Karel van der Lingen	📣	1f4e3	1
+Karel van der Lingen	💭	1f4ad	3
+Karel van der Lingen	👀	1f440	1
+Karel van der Lingen	🎻	1f3bb	1
+Karel van der Lingen	🎷	1f3b7	1
+Karel van der Lingen	💥	1f4a5	1
+Karel van der Lingen	🦆	1f986	1
+Karel van der Lingen	🍓	1f353	1
+Karel van der Lingen	🍉	1f349	1
+Karel van der Lingen	🍊	1f34a	2
+Karel van der Lingen	🍋	1f34b	1
+Karel van der Lingen	🍎	1f34e	1
+Karel van der Lingen	🍏	1f34f	1
+Karel van der Lingen	🍍	1f34d	1
+Karel van der Lingen	🍑	1f351	1
+Karel van der Lingen	🍈	1f348	1
+Karel van der Lingen	😍	1f60d	1
+Karel van der Lingen	❓	2753	1
+Karel van der Lingen	🙋	1f64b	1
+Karel van der Lingen	♂	2642	2
+Karel van der Lingen	👪	1f46a	1
+Karel van der Lingen	🙊	1f64a	1
+Karel van der Lingen	😃	1f603	1
+Karel van der Lingen	😎	1f60e	1
+Karel van der Lingen	🌉	1f309	1
+Karel van der Lingen	👞	1f45e	1
+Karel van der Lingen	🎇	1f387	1
+Karel van der Lingen	🍻	1f37b	2
+Karel van der Lingen	🥃	1f943	1
+Karel van der Lingen	🥳	1f973	2
+Karel van der Lingen	🔔	1f514	1
+Karel van der Lingen	🌬	1f32c	1
+Karel van der Lingen	🔥	1f525	1
+Karel van der Lingen	💎	1f48e	1
+Karel van der Lingen	💸	1f4b8	1
+Karel van der Lingen	🕰	1f570	1
+Karel van der Lingen	🧄	1f9c4	1
+Karel van der Lingen	🦇	1f987	1
+Karel van der Lingen	🐛	1f41b	1
+Karel van der Lingen	🐈	1f408	1
+Karel van der Lingen	🐇	1f407	1
+Karel van der Lingen	☕	2615	1
+Karel van der Lingen	🐌	1f40c	1
+Karel van der Lingen	⏱	23f1	1
+Karel van der Lingen	🎪	1f3aa	1
+Karel van der Lingen	🐘	1f418	1
+Karel van der Lingen	🧑	1f9d1	1
+Karel van der Lingen	🏼	1f3fc	1
+Karel van der Lingen	🦽	1f9bd	1
+Karel van der Lingen	🏽	1f3fd	1
+Karel van der Lingen	🦱	1f9b1	1
+Karel van der Lingen	🦷	1f9b7	1
+Karel van der Lingen	🏃	1f3c3	1
+Karel van der Lingen	🏻	1f3fb	1
+Karel van der Lingen	🦋	1f98b	1
+Karel van der Lingen	➰	27b0	1
+Karel van der Lingen	🚪	1f6aa	1
+Karel van der Lingen	🦉	1f989	1
+Karel van der Lingen	🤓	1f913	1
+Karel van der Lingen	🔙	1f519	1
+Karel van der Lingen	🚀	1f680	1
+Karel van der Lingen	📺	1f4fa	1
+Karel van der Lingen	👶	1f476	1
+Karel van der Lingen	👱	1f471	1
+Karel van der Lingen	👴	1f474	1
+Karel van der Lingen	⛵	26f5	1
+Karel van der Lingen	🚧	1f6a7	1
+Karel van der Lingen	⭐	2b50	1
+Karel van der Lingen	🔫	1f52b	1
+Karel van der Lingen	💣	1f4a3	1
+Karel van der Lingen	☠	2620	1
+Karel van der Lingen	🛎	1f6ce	1
+Karel van der Lingen	⬆	2b06	1
+Karel van der Lingen	🏮	1f3ee	1
+Karel van der Lingen	🌴	1f334	1
+Karel van der Lingen	🐯	1f42f	1
+Karel van der Lingen	🐻	1f43b	1
+Karel van der Lingen	📕	1f4d5	1
+Karel van der Lingen	🎤	1f3a4	1
+Karel van der Lingen	☂	2602	1
+Karel van der Lingen	🥊	1f94a	1
+Karel van der Lingen	🐮	1f42e	1
+Karel van der Lingen	🧎	1f9ce	1
+Karel van der Lingen	♀	2640	1
+Karel van der Lingen	🐅	1f405	1
+Karel van der Lingen	🔍	1f50d	1
+Karel van der Lingen	🐲	1f432	1
+Karel van der Lingen	♾	267e	1
+Karel van der Lingen	🌞	1f31e	1
+Karel van der Lingen	🧠	1f9e0	1
+Karel van der Lingen	🐭	1f42d	1
+Karel van der Lingen	🙅	1f645	1
+Karel van der Lingen	🐼	1f43c	1
+Karel van der Lingen	🌍	1f30d	1
+Karel van der Lingen	🦧	1f9a7	1
+Karel van der Lingen	🙄	1f644	1
+Karel van der Lingen	🙃	1f643	1
+Niek Van Doorn	👍	1f44d	2
+Niek Van Doorn	🏻	1f3fb	4
+Niek Van Doorn	🤔	1f914	18
+Niek Van Doorn	🎶	1f3b6	4
+Niek Van Doorn	😦	1f626	1
+Niek Van Doorn	😅	1f605	19
+Niek Van Doorn	✋	270b	1
+Niek Van Doorn	🎵	1f3b5	4
+Niek Van Doorn	😢	1f622	1
+Niek Van Doorn	🙊	1f64a	1
+Niek Van Doorn	😁	1f601	8
+Niek Van Doorn	😆	1f606	1
+Niek Van Doorn	😜	1f61c	5
+Niek Van Doorn	😱	1f631	3
+Niek Van Doorn	🐝	1f41d	2
+Niek Van Doorn	🤤	1f924	2
+Niek Van Doorn	✅	2705	1
+Niek Van Doorn	😇	1f607	1
+Niek Van Doorn	🎈	1f388	1
+Niek Van Doorn	🎊	1f38a	1
+Niek Van Doorn	🥂	1f942	1
+Niek Van Doorn	📯	1f4ef	1
+Niek Van Doorn	🎉	1f389	1
+Niek Van Doorn	✔	2714	1
+Niek Van Doorn	😭	1f62d	1
+Niek Van Doorn	🎻	1f3bb	1
+Niek Van Doorn	🥁	1f941	1
+Niek Van Doorn	🎺	1f3ba	1
+Niek Van Doorn	💪	1f4aa	1
+Niek Van Doorn	😂	1f602	1
+Niek Van Doorn	🥳	1f973	1
+Tonie	👍	1f44d	15
+Tonie	😂	1f602	34
+Tonie	😘	1f618	4
+Tonie	😉	1f609	23
+Tonie	✅	2705	3
+Tonie	🎉	1f389	1
+Tonie	∅	2205	1
+Tonie	🚚	1f69a	1
+Tonie	🚴	1f6b4	1
+Tonie	♂	2642	1
+Tonie	😒	1f612	2
+Tonie	👌	1f44c	2
+Tonie	😄	1f604	5
+Tonie	🎶	1f3b6	2
+Tonie	🍗	1f357	1
+Tonie	🍺	1f37a	1
+Tonie	🎼	1f3bc	1
+Tonie	😞	1f61e	1
+Tonie	😝	1f61d	1
+Tonie	😃	1f603	1
+Tonie	🌨	1f328	1
+Tonie	⛷	26f7	1
+Tonie	🏿	1f3ff	1
+Tonie	☕	2615	1
+Tonie	💎	1f48e	1
+Tonie	🔕	1f515	1
+Tonie	🐑	1f411	1
+Tonie	👦	1f466	1
+Tonie	👧	1f467	1
+Tonie	🌂	1f302	1
+Tonie	👜	1f45c	1
+Tonie	👨	1f468	1
+Tonie	💬	1f4ac	1
+Tonie	🐴	1f434	1
+Tonie	👮	1f46e	1
+Tonie	📮	1f4ee	1
+Tonie	👴	1f474	1
+Tonie	📝	1f4dd	1
+Tonie	🍅	1f345	1
+Tonie	✳	2733	1
+Tonie	🍳	1f373	1
+Tonie	💭	1f4ad	1
+Tonie	👘	1f458	1
+Tonie	⛺	26fa	1
+Tonie	🗻	1f5fb	1
+Tonie	🚘	1f698	1
+Tonie	👵	1f475	1
+Tonie	🌼	1f33c	1
+Tonie	🔎	1f50e	1
+Tonie	🐠	1f420	1
+Tonie	💏	1f48f	1
+Tonie	⭕	2b55	1
+Tonie	❄	2744	1
+Tonie	🐦	1f426	1
+Tonie	📄	1f4c4	1
+Tonie	👽	1f47d	1
+Tonie	☝	261d	1
+Tonie	📞	1f4de	1
+Tonie	🏠	1f3e0	1
+Tonie	🔫	1f52b	1
+Tonie	🔍	1f50d	1
+Tonie	🎩	1f3a9	1
+Tonie	🌻	1f33b	1
+Tonie	😎	1f60e	1
+Tonie	👹	1f479	1
+Tonie	😺	1f63a	1
+Tonie	👳	1f473	1
+Tonie	📺	1f4fa	1
+Tonie	💵	1f4b5	1
+Tonie	🍔	1f354	1
+Tonie	🍟	1f35f	1
+Tonie	🚑	1f691	1
+Tonie	🐭	1f42d	1
+Tonie	🚗	1f697	1
+Tonie	💰	1f4b0	1
+Tonie	🏃	1f3c3	1
+Tonie	💨	1f4a8	1
+Tonie	🎓	1f393	1
+Tonie	👄	1f444	1
+Tonie	🎨	1f3a8	1
+Tonie	🎥	1f3a5	1
+Tonie	🌲	1f332	1
+Tonie	🕑	1f551	1
+Tonie	🕒	1f552	1
+Tonie	🕓	1f553	1
+Tonie	🕔	1f554	1
+Tonie	🌴	1f334	1
+Tonie	🐒	1f412	1
+Tonie	💍	1f48d	1
+Tonie	👀	1f440	1
+Tonie	👅	1f445	1
+Tonie	👂	1f442	1
+Tonie	✋	270b	1
+Tonie	👃	1f443	1
+Tonie	🎈	1f388	1
+Tonie	🏡	1f3e1	1
+Tonie	📩	1f4e9	1
+Tonie	💑	1f491	1
+Tonie	😩	1f629	1
+Tonie	👫	1f46b	1
+Tonie	🐻	1f43b	1
+Tonie	❤	2764	1
+Tonie	🍻	1f37b	1
+Tonie	🚬	1f6ac	1
+Tonie	🛀	1f6c0	1
+Tonie	🔪	1f52a	1
+Tonie	⏰	23f0	1
+Tonie	📆	1f4c6	1
+Tonie	🚶	1f6b6	1
+Tonie	✈	2708	1
+Tonie	😈	1f608	1
+Tonie	👗	1f457	1
+Tonie	👠	1f460	1
+Tonie	👐	1f450	1
+Tonie	✂	2702	1
+Tonie	🌗	1f317	1
+Tonie	🐺	1f43a	1
+Tonie	😢	1f622	1
+Tonie	💀	1f480	1
+Tonie	👻	1f47b	1
+Tonie	🔓	1f513	1
+Tonie	👆	1f446	1
+Tonie	🌄	1f304	1
+Tonie	👇	1f447	1
+Tonie	😌	1f60c	1
+Tonie	😠	1f620	1
+Tonie	👺	1f47a	1
+Tonie	🌊	1f30a	1
+Tonie	👈	1f448	1
+Tonie	💻	1f4bb	1
+Tonie	💊	1f48a	1
+Tonie	💃	1f483	1
+Tonie	☁	2601	1
+Tonie	🐵	1f435	1
+Tonie	🚲	1f6b2	1
+Tonie	☀	2600	1
+Tonie	📬	1f4ec	1
+Tonie	🚪	1f6aa	1
+Tonie	💥	1f4a5	1
+Tonie	✊	270a	1
+Tonie	👟	1f45f	1
+Tonie	👞	1f45e	1
+Tonie	👡	1f461	1
+Tonie	👢	1f462	1
+Tonie	🐬	1f42c	1
+Tonie	💩	1f4a9	1
+Tonie	🍂	1f342	1
+Tonie	🍁	1f341	1
+Tonie	🗽	1f5fd	1
+Tonie	🍞	1f35e	1
+Tonie	🍷	1f377	1
+Tonie	🚣	1f6a3	1
+Tonie	🐅	1f405	1
+Tonie	🤭	1f92d	1
+Tonie	😁	1f601	1
+Theodoor	😂	1f602	1
+Theodoor	😱	1f631	1
+Theodoor	🎶	1f3b6	2
+Theodoor	🎻	1f3bb	1
+Jaap Gritter	😈	1f608	1
+Jaap Gritter	🙃	1f643	15
+Jaap Gritter	🤣	1f923	3
+Jaap Gritter	😘	1f618	6
+Jaap Gritter	👑	1f451	1
+Jaap Gritter	😍	1f60d	4
+Jaap Gritter	😂	1f602	51
+Jaap Gritter	💪	1f4aa	4
+Jaap Gritter	🏻	1f3fb	25
+Jaap Gritter	❤	2764	6
+Jaap Gritter	😡	1f621	3
+Jaap Gritter	😇	1f607	5
+Jaap Gritter	👌	1f44c	11
+Jaap Gritter	👏	1f44f	3
+Jaap Gritter	☝	261d	1
+Jaap Gritter	😭	1f62d	1
+Jaap Gritter	💯	1f4af	10
+Jaap Gritter	🎶	1f3b6	2
+Jaap Gritter	😳	1f633	1
+Jaap Gritter	😁	1f601	1
+Jaap Gritter	☹	2639	4
+Jaap Gritter	🖐	1f590	2
+Jaap Gritter	😐	1f610	1
+Jaap Gritter	😢	1f622	2
+Jaap Gritter	∅	2205	1
+Jaap Gritter	😏	1f60f	5
+Jaap Gritter	😚	1f61a	2
+Jaap Gritter	👋	1f44b	2
+Jaap Gritter	🏿	1f3ff	1
+Jaap Gritter	😉	1f609	2
+Jaap Gritter	🤔	1f914	1
+Jaap Gritter	😬	1f62c	3
+Jaap Gritter	🧐	1f9d0	2
+Jaap Gritter	😎	1f60e	1
+Jaap Gritter	🤑	1f911	1
+Jaap Gritter	🤜	1f91c	1
+Jaap Gritter	🤭	1f92d	5
+Jaap Gritter	😜	1f61c	2
+Jaap Gritter	😖	1f616	1
+Jaap Gritter	🤬	1f92c	1
+Jaap Gritter	🔥	1f525	3
+Jaap Gritter	🙈	1f648	3
+Jaap Gritter	🎉	1f389	5
+Jaap Gritter	👍	1f44d	3
+Jaap Gritter	🍻	1f37b	1
+Jaap Gritter	🍺	1f37a	1
+Jaap Gritter	😱	1f631	1
+Jaap Gritter	😝	1f61d	1
+Steven Bouman	😎	1f60e	6
+Steven Bouman	👍	1f44d	19
+Steven Bouman	😗	1f617	27
+Steven Bouman	😁	1f601	9
+Steven Bouman	😉	1f609	3
+Steven Bouman	😱	1f631	2
+Steven Bouman	😊	1f60a	3
+Steven Bouman	🙄	1f644	2
+Steven Bouman	👆	1f446	1
+Steven Bouman	🏽	1f3fd	1
+Steven Bouman	👊	1f44a	7
+Steven Bouman	🏻	1f3fb	12
+Steven Bouman	😙	1f619	3
+Steven Bouman	🥳	1f973	1
+Steven Bouman	😬	1f62c	1
+Steven Bouman	🤔	1f914	4
+Steven Bouman	✊	270a	1
+Steven Bouman	⬆	2b06	1
+Steven Bouman	😴	1f634	1
+Twan Haerkens	😤	1f624	1
+Twan Haerkens	😂	1f602	1
+Twan Haerkens	🙈	1f648	1
+Twan Haerkens	🤡	1f921	1
+Twan Haerkens	😅	1f605	1
+Twan Haerkens	😉	1f609	3
+Twan Haerkens	😜	1f61c	3
+Twan Haerkens	😛	1f61b	1
+Twan Haerkens	👍	1f44d	6
+Twan Haerkens	😱	1f631	2
+Twan Haerkens	🥇	1f947	1
+Twan Haerkens	😇	1f607	1
+Twan Haerkens	⛷	26f7	1
+Twan Haerkens	✔	2714	1
+Twan Haerkens	🙌	1f64c	1
+Twan Haerkens	💪	1f4aa	1
+Marnix Akerboom	😬	1f62c	23
+Marnix Akerboom	🐝	1f41d	1
+Marnix Akerboom	😂	1f602	42
+Marnix Akerboom	😁	1f601	2
+Marnix Akerboom	😕	1f615	1
+Marnix Akerboom	🙃	1f643	1
+Marnix Akerboom	👍	1f44d	7
+Marnix Akerboom	😢	1f622	2
+Marnix Akerboom	😊	1f60a	9
+Marnix Akerboom	🤠	1f920	1
+Marnix Akerboom	🍭	1f36d	1
+Marnix Akerboom	😎	1f60e	1
+Marnix Akerboom	😘	1f618	9
+Marnix Akerboom	🐰	1f430	1
+Marnix Akerboom	🎉	1f389	19
+Marnix Akerboom	🐳	1f433	5
+Marnix Akerboom	👆	1f446	2
+Marnix Akerboom	😗	1f617	1
+Marnix Akerboom	😡	1f621	1
+Marnix Akerboom	👶	1f476	1
+Marnix Akerboom	😖	1f616	1
+Marnix Akerboom	🙄	1f644	1
+Marnix Akerboom	🐣	1f423	1
+Marnix Akerboom	🍖	1f356	1
+Marnix Akerboom	😜	1f61c	4
+Marnix Akerboom	🐥	1f425	3
+Marnix Akerboom	😃	1f603	1
+Marnix Akerboom	😄	1f604	1
+Marnix Akerboom	❤	2764	2
+Marnix Akerboom	👑	1f451	1
+Marnix Akerboom	😱	1f631	1
+Marnix Akerboom	🔥	1f525	2
+Marnix Akerboom	🙉	1f649	1
+Marnix Akerboom	😥	1f625	1
+Marnix Akerboom	😋	1f60b	1
+Marnix Akerboom	💪	1f4aa	1
+Marnix Akerboom	🏴	1f3f4	1
+Marnix Akerboom	☠	2620	1
+Marnix Akerboom	🥂	1f942	3
+Marnix Akerboom	🍻	1f37b	2
+Marnix Akerboom	🥳	1f973	35
+Marnix Akerboom	🎶	1f3b6	1
+Marnix Akerboom	🛹	1f6f9	1
+Marnix Akerboom	😇	1f607	1
+Marnix Akerboom	🍺	1f37a	1
+Marnix Akerboom	🎼	1f3bc	1
+Marnix Akerboom	😍	1f60d	1
+Marnix Akerboom	🤓	1f913	1
+Marnix Akerboom	👌	1f44c	1
+Timme	🍻	1f37b	1
+Timme	👔	1f454	1
+Timme	🎁	1f381	1
+Timme	😘	1f618	1
+Timme	🎉	1f389	1
+Timme	😎	1f60e	1
+Timme	🤔	1f914	1
+Timme	🍾	1f37e	1
+Timme	🎂	1f382	1
+Timme	😏	1f60f	1
+Timme	🥳	1f973	3
+Timme	🎼	1f3bc	1
+Emile Ripke	🎶	1f3b6	1
+Emile Ripke	🎉	1f389	2
+Emile Ripke	😬	1f62c	1
+Emile Ripke	😉	1f609	1
+Emile Ripke	✌	270c	1
+Emile Ripke	😏	1f60f	1
+Emile Ripke	🙏	1f64f	1
+Emile Ripke	☀	2600	1
+Hanjo Scheltens	👍	1f44d	2
+Hanjo Scheltens	🏻	1f3fb	2
+Hanjo Scheltens	😳	1f633	1
+Wouter Vermeulen	👍	1f44d	121
+Wouter Vermeulen	🏻	1f3fb	133
+Wouter Vermeulen	🍻	1f37b	14
+Wouter Vermeulen	😂	1f602	55
+Wouter Vermeulen	🎼	1f3bc	64
+Wouter Vermeulen	🤔	1f914	2
+Wouter Vermeulen	🍺	1f37a	6
+Wouter Vermeulen	😜	1f61c	8
+Wouter Vermeulen	🤪	1f92a	3
+Wouter Vermeulen	🤤	1f924	1
+Wouter Vermeulen	🍾	1f37e	4
+Wouter Vermeulen	🚲	1f6b2	1
+Wouter Vermeulen	🙏	1f64f	7
+Wouter Vermeulen	🎊	1f38a	12
+Wouter Vermeulen	🥃	1f943	2
+Wouter Vermeulen	🎉	1f389	6
+Wouter Vermeulen	🖕	1f595	1
+Wouter Vermeulen	🤣	1f923	157
+Wouter Vermeulen	🥒	1f952	1
+Wouter Vermeulen	😴	1f634	1
+Wouter Vermeulen	🤒	1f912	1
+Wouter Vermeulen	😇	1f607	1
+Wouter Vermeulen	😖	1f616	1
+Wouter Vermeulen	🤑	1f911	2
+Wouter Vermeulen	😈	1f608	1
+Wouter Vermeulen	😉	1f609	18
+Wouter Vermeulen	😲	1f632	1
+Wouter Vermeulen	🤗	1f917	1
+Wouter Vermeulen	😍	1f60d	2
+Wouter Vermeulen	😳	1f633	2
+Wouter Vermeulen	😥	1f625	1
+Wouter Vermeulen	❗	2757	1
+Wouter Vermeulen	🤮	1f92e	1
+Wouter Vermeulen	😢	1f622	2
+Wouter Vermeulen	👨	1f468	1
+Wouter Vermeulen	🏼	1f3fc	1
+Wouter Vermeulen	🔧	1f527	1
+Wouter Vermeulen	😪	1f62a	1
+Wouter Vermeulen	🥺	1f97a	1
+Wouter Vermeulen	🤨	1f928	2
+Wouter Vermeulen	😭	1f62d	1
+Wouter Vermeulen	🤯	1f92f	1
+Wouter Vermeulen	😱	1f631	2
+Wouter Vermeulen	✊	270a	1
+Wouter Vermeulen	💖	1f496	1
+Wouter Vermeulen	🔟	1f51f	1
+Wouter Vermeulen	🖍	1f58d	1
+Wouter Vermeulen	😘	1f618	1
+Wouter Vermeulen	🤫	1f92b	1
+Wouter Vermeulen	🎷	1f3b7	1
+Wouter Vermeulen	🕯	1f56f	1
+Wouter Vermeulen	🙉	1f649	1
+Wouter Vermeulen	❤	2764	1
+Wouter Vermeulen	🤓	1f913	1
+Wouter Vermeulen	🧐	1f9d0	1
+Wouter Vermeulen	🥳	1f973	6
+Wouter Vermeulen	😡	1f621	1
+Wouter Vermeulen	😎	1f60e	1
+Wouter Vermeulen	☺	263a	1
+Wouter Vermeulen	💐	1f490	3
+Wouter Vermeulen	😨	1f628	1
+Wouter Vermeulen	👏	1f44f	2
+Wouter Vermeulen	🥂	1f942	1
+Wouter Vermeulen	👊	1f44a	1
+Wouter Vermeulen	😁	1f601	1
+Wouter Vermeulen	✔	2714	1
+Wouter Vermeulen	🍸	1f378	1
+Wouter Vermeulen	🍹	1f379	1
+Koen vd Glindt	🤑	1f911	4
+Koen vd Glindt	🎉	1f389	17
+Koen vd Glindt	🎵	1f3b5	6
+Koen vd Glindt	🎶	1f3b6	9
+Koen vd Glindt	🙃	1f643	2
+Koen vd Glindt	🖐	1f590	1
+Koen vd Glindt	🏻	1f3fb	7
+Koen vd Glindt	🍺	1f37a	1
+Koen vd Glindt	😭	1f62d	1
+Koen vd Glindt	🚀	1f680	1
+Koen vd Glindt	😮	1f62e	2
+Koen vd Glindt	🎤	1f3a4	1
+Koen vd Glindt	🎼	1f3bc	30
+Koen vd Glindt	😁	1f601	5
+Koen vd Glindt	😱	1f631	1
+Koen vd Glindt	🎂	1f382	1
+Koen vd Glindt	👍	1f44d	5
+Koen vd Glindt	😘	1f618	3
+Koen vd Glindt	🧐	1f9d0	1
+Koen vd Glindt	📖	1f4d6	1
+Koen vd Glindt	📚	1f4da	1
+Koen vd Glindt	🤭	1f92d	1
+Koen vd Glindt	😜	1f61c	3
+Koen vd Glindt	😍	1f60d	2
+Koen vd Glindt	🤩	1f929	1
+Koen vd Glindt	💪	1f4aa	2
+Koen vd Glindt	😊	1f60a	4
+Koen vd Glindt	🤷	1f937	1
+Koen vd Glindt	♂	2642	1
+Koen vd Glindt	🤔	1f914	1
+Koen vd Glindt	⛷	26f7	1
+Koen vd Glindt	🍌	1f34c	1
+Koen vd Glindt	😀	1f600	1
+Koen vd Glindt	😃	1f603	1
+Koen vd Glindt	😄	1f604	1
+Koen vd Glindt	😆	1f606	2
+Koen vd Glindt	😂	1f602	5
+Koen vd Glindt	🤣	1f923	1
+Koen vd Glindt	☺	263a	1
+Koen vd Glindt	😇	1f607	1
+Koen vd Glindt	🙂	1f642	1
+Koen vd Glindt	😉	1f609	1
+Koen vd Glindt	😌	1f60c	1
+Koen vd Glindt	🥰	1f970	1
+Koen vd Glindt	😋	1f60b	1
+Koen vd Glindt	😛	1f61b	1
+Koen vd Glindt	😝	1f61d	2
+Koen vd Glindt	🤪	1f92a	1
+Koen vd Glindt	😯	1f62f	1
+Koen vd Glindt	😲	1f632	1
+Koen vd Glindt	😳	1f633	1
+Koen vd Glindt	🥳	1f973	1
+Koen vd Glindt	🧧	1f9e7	1
+Koen vd Glindt	😠	1f620	1
+Koen vd Glindt	🤬	1f92c	1
+Koen vd Glindt	🔸	1f538	1
+Koen vd Glindt	👀	1f440	2
+Koen vd Glindt	😢	1f622	1
+Koen vd Glindt	✋	270b	1
+Janco Aspi	😂	1f602	32
+Janco Aspi	😬	1f62c	10
+Janco Aspi	😘	1f618	2
+Janco Aspi	🤔	1f914	5
+Janco Aspi	😜	1f61c	5
+Janco Aspi	🙃	1f643	5
+Janco Aspi	🙈	1f648	2
+Janco Aspi	😏	1f60f	1
+Janco Aspi	😄	1f604	1
+Janco Aspi	👆	1f446	1
+Janco Aspi	🏼	1f3fc	1
+Janco Aspi	🤑	1f911	1
+Janco Aspi	😅	1f605	3
+Janco Aspi	💪	1f4aa	1
+Janco Aspi	🍻	1f37b	9
+Janco Aspi	🐝	1f41d	5
+Janco Aspi	😁	1f601	8
+Janco Aspi	👍	1f44d	4
+Janco Aspi	🤣	1f923	8
+Janco Aspi	😍	1f60d	1
+Janco Aspi	🤬	1f92c	1
+Janco Aspi	❓	2753	1
+Janco Aspi	❌	274c	1
+Janco Aspi	🏻	1f3fb	4
+Janco Aspi	🎉	1f389	2
+Janco Aspi	👏	1f44f	1
+Janco Aspi	🎼	1f3bc	1
+Janco Aspi	🥳	1f973	2
+Janco Aspi	🎶	1f3b6	2
+Janco Aspi	👔	1f454	1
+Janco Aspi	🙌	1f64c	1
+Janco Aspi	🙋	1f64b	1
+Janco Aspi	♂	2642	1
+Onno van Woerden	😉	1f609	25
+Onno van Woerden	😀	1f600	4
+Onno van Woerden	😃	1f603	2
+Onno van Woerden	🙂	1f642	1
+Onno van Woerden	😄	1f604	1
+Onno van Woerden	👍	1f44d	3
+Onno van Woerden	🏻	1f3fb	2
+Onno van Woerden	😜	1f61c	1
+Onno van Woerden	😁	1f601	1
+Onno van Woerden	😂	1f602	1
+Onno van Woerden	😊	1f60a	1
+Onno van Woerden	🍾	1f37e	1
+Onno van Woerden	😕	1f615	1
+Maurits (Mutu)	😑	1f611	1
+Maurits (Mutu)	💥	1f4a5	1
+Maurits (Mutu)	😆	1f606	2
+Maurits (Mutu)	👍	1f44d	8
+Maurits (Mutu)	🏻	1f3fb	12
+Maurits (Mutu)	🍾	1f37e	5
+Maurits (Mutu)	🙋	1f64b	2
+Maurits (Mutu)	♀	2640	1
+Maurits (Mutu)	🎊	1f38a	3
+Maurits (Mutu)	😄	1f604	1
+Maurits (Mutu)	🤚	1f91a	1
+Maurits (Mutu)	🎼	1f3bc	5
+Maurits (Mutu)	👹	1f479	1
+Maurits (Mutu)	😂	1f602	6
+Maurits (Mutu)	😉	1f609	3
+Maurits (Mutu)	🍺	1f37a	1
+Maurits (Mutu)	👺	1f47a	1
+Maurits (Mutu)	🎂	1f382	1
+Maurits (Mutu)	🎶	1f3b6	3
+Maurits (Mutu)	🙁	1f641	1
+Maurits (Mutu)	🥳	1f973	4
+Maurits (Mutu)	🏠	1f3e0	2
+Maurits (Mutu)	📋	1f4cb	1
+Maurits (Mutu)	😜	1f61c	1
+Maurits (Mutu)	🍰	1f370	1
+Maurits (Mutu)	⚪	26aa	1
+Maurits (Mutu)	🔴	1f534	1
+Maurits (Mutu)	👌	1f44c	2
+Maurits (Mutu)	🤛	1f91b	1
+Maurits (Mutu)	🥁	1f941	1
+Maurits (Mutu)	😱	1f631	1
+Maurits (Mutu)	👨	1f468	1
+Maurits (Mutu)	👦	1f466	1
+Maurits (Mutu)	👮	1f46e	1
+Maurits (Mutu)	🏼	1f3fc	1
+Maurits (Mutu)	♂	2642	1
+Maurits (Mutu)	🤣	1f923	1
+Maurits (Mutu)	🎙	1f399	1
+Daan Timmer	😏	1f60f	1
+Daan Timmer	😁	1f601	1
+Daan Timmer	😶	1f636	1
+Daan Timmer	😜	1f61c	1
+Daan Timmer	😂	1f602	10
+Daan Timmer	🤷	1f937	2
+Daan Timmer	♂	2642	2
+Daan Timmer	😘	1f618	1
+Daan Timmer	🤢	1f922	1
+Daan Timmer	👱	1f471	1
+Daan Timmer	🏻	1f3fb	4
+Daan Timmer	♀	2640	1
+Daan Timmer	😢	1f622	1
+Daan Timmer	😋	1f60b	3
+Daan Timmer	🙊	1f64a	1
+Daan Timmer	👸	1f478	1
+Daan Timmer	🏼	1f3fc	1
+Daan Timmer	🤐	1f910	1
+Daan Timmer	🤟	1f91f	1
+Daan Timmer	🏿	1f3ff	1
+Daan Timmer	👍	1f44d	2
+Daan Timmer	🐎	1f40e	1
+Daan Timmer	😅	1f605	1
+Daan Timmer	🎉	1f389	1
+Daan Timmer	🎆	1f386	1
+Daan Timmer	😉	1f609	1
+Daan Timmer	👆	1f446	1
+Daan Timmer	❤	2764	1
+Daan Timmer	💜	1f49c	3
+Harm Heimeriks	😁	1f601	10
+Harm Heimeriks	😱	1f631	5
+Harm Heimeriks	👊	1f44a	1
+Harm Heimeriks	👼	1f47c	1
+Harm Heimeriks	🏻	1f3fb	3
+Harm Heimeriks	🍾	1f37e	1
+Harm Heimeriks	🥂	1f942	4
+Harm Heimeriks	🎵	1f3b5	55
+Harm Heimeriks	🎶	1f3b6	66
+Harm Heimeriks	😜	1f61c	2
+Harm Heimeriks	🎊	1f38a	25
+Harm Heimeriks	🍷	1f377	1
+Harm Heimeriks	😂	1f602	5
+Harm Heimeriks	🎉	1f389	26
+Harm Heimeriks	🙃	1f643	1
+Harm Heimeriks	🚀	1f680	1
+Harm Heimeriks	🎼	1f3bc	6
+Harm Heimeriks	😢	1f622	1
+Harm Heimeriks	🎁	1f381	1
+Harm Heimeriks	🥁	1f941	1
+Harm Heimeriks	🚼	1f6bc	1
+Harm Heimeriks	🍻	1f37b	1
+Harm Heimeriks	🌞	1f31e	1
+Harm Heimeriks	🎂	1f382	1
+Harm Heimeriks	🤣	1f923	2
+Harm Heimeriks	😉	1f609	2
+Harm Heimeriks	🤔	1f914	3
+Harm Heimeriks	✔	2714	1
+Harm Heimeriks	😍	1f60d	1
+Harm Heimeriks	😅	1f605	1
+Harm Heimeriks	🙋	1f64b	2
+Harm Heimeriks	♂	2642	2
+Harm Heimeriks	👍	1f44d	3
+Harm Heimeriks	😘	1f618	1
+Harm Heimeriks	✅	2705	1
+Maarten Hemmes	😄	1f604	2
+Maarten Hemmes	🎊	1f38a	2
+Maarten Hemmes	😂	1f602	4
+Maarten Hemmes	😍	1f60d	1
+Maarten Hemmes	🎉	1f389	1
+Maarten Hemmes	🥳	1f973	2
+Maarten Hemmes	😕	1f615	1
+Maarten Hemmes	😐	1f610	1
+Maarten Hemmes	💪	1f4aa	1
+Maarten Hemmes	🏻	1f3fb	1
+Maarten Hemmes	😊	1f60a	1
+Maarten Hemmes	😬	1f62c	2
+Maarten Hemmes	😎	1f60e	1
+Maarten Hemmes	🍻	1f37b	1
+Sebstiaan van Doornik, Barry	😁	1f601	1
+Sebstiaan van Doornik, Barry	🎶	1f3b6	1
+Sebstiaan van Doornik, Barry	😍	1f60d	1
+Luit Gazendam	👍	1f44d	2
+Luit Gazendam	😄	1f604	2
+Luit Gazendam	🍾	1f37e	1
+Luit Gazendam	🍺	1f37a	3
+Luit Gazendam	😢	1f622	1
+Luit Gazendam	😀	1f600	1
+Luit Gazendam	😕	1f615	2
+Luit Gazendam	🎈	1f388	1
+Luit Gazendam	🎁	1f381	1
+Luit Gazendam	💊	1f48a	1
+Luit Gazendam	🍻	1f37b	1
+Luit Gazendam	😂	1f602	3
+Luit Gazendam	😃	1f603	2
+Luit Gazendam	😁	1f601	1
+Luit Gazendam	🎊	1f38a	1
+Luit Gazendam	🎉	1f389	1
+Luit Gazendam	🎼	1f3bc	1
+Samuel	🙋	1f64b	2
+Samuel	🏼	1f3fc	2
+Samuel	❤	2764	8
+Samuel	🎵	1f3b5	2
+Samuel	♥	2665	1
+Samuel	♀	2640	1
+Samuel	🎉	1f389	3
+Samuel	🎯	1f3af	1
+Samuel	🍿	1f37f	1
+Samuel	👸	1f478	1
+Samuel	❄	2744	1
+Samuel	👦	1f466	1
+Samuel	🐴	1f434	1
+Samuel	🐲	1f432	1
+Samuel	📖	1f4d6	1
+Samuel	♻	267b	1
+Samuel	🦠	1f9a0	1
+Samuel	🌎	1f30e	1
+Samuel	🌕	1f315	1
+Samuel	⬆	2b06	1
+Samuel	👑	1f451	1
+Samuel	👶	1f476	1
+Samuel	🚘	1f698	1
+Samuel	🔪	1f52a	1
+Samuel	🚄	1f684	1
+Samuel	🔎	1f50e	1
+Samuel	🎣	1f3a3	1
+Samuel	👏	1f44f	1
+Menko Verburg	😢	1f622	1
+Menko Verburg	🎉	1f389	9
+Menko Verburg	😆	1f606	1
+Menko Verburg	🥁	1f941	1
+Menko Verburg	😱	1f631	1
+Menko Verburg	🤣	1f923	1
+Menko Verburg	🤔	1f914	1
+Menko Verburg	😣	1f623	1
+Menko Verburg	🍾	1f37e	2
+Menko Verburg	🥺	1f97a	1
+Menko Verburg	😬	1f62c	1
+Menko Verburg	🥳	1f973	3
+Menko Verburg	😉	1f609	1
+Menko Verburg	😍	1f60d	1
+Robert Bekker	🎉	1f389	3
+Robert Bekker	🤗	1f917	1
+Robert Bekker	💁	1f481	1
+Robert Bekker	♂	2642	1
+Robert Bekker	👏	1f44f	4
+Robert Bekker	👌	1f44c	2
+Robert Bekker	🤩	1f929	1
+Robert Bekker	🎶	1f3b6	4
+Robert Bekker	👍	1f44d	1
+Robert Bekker	😂	1f602	1
+Robert Bekker	🥳	1f973	3
+Robert Bekker	✋	270b	1
+Ruben Bloemhof	🤔	1f914	4
+Ruben Bloemhof	😌	1f60c	3
+Ruben Bloemhof	👌	1f44c	5
+Ruben Bloemhof	🏻	1f3fb	13
+Ruben Bloemhof	😏	1f60f	2
+Ruben Bloemhof	❤	2764	6
+Ruben Bloemhof	👍	1f44d	10
+Ruben Bloemhof	😍	1f60d	1
+Ruben Bloemhof	😕	1f615	5
+Ruben Bloemhof	✌	270c	2
+Ruben Bloemhof	☹	2639	3
+Ruben Bloemhof	😨	1f628	1
+Ruben Bloemhof	😹	1f639	2
+Ruben Bloemhof	😂	1f602	3
+Ruben Bloemhof	🙀	1f640	1
+Ruben Bloemhof	😎	1f60e	5
+Ruben Bloemhof	🙈	1f648	2
+Ruben Bloemhof	😇	1f607	1
+Ruben Bloemhof	😅	1f605	2
+Ruben Bloemhof	🤣	1f923	14
+Ruben Bloemhof	😁	1f601	1
+Ruben Bloemhof	💀	1f480	1
+Ruben Bloemhof	🤡	1f921	2
+Ruben Bloemhof	😐	1f610	1
+Ruben Bloemhof	😭	1f62d	2
+Ruben Bloemhof	😢	1f622	3
+Ruben Bloemhof	😛	1f61b	1
+Ruben Bloemhof	🙂	1f642	1
+Ruben Bloemhof	😰	1f630	1
+Ruben Bloemhof	🍢	1f362	1
+Ruben Bloemhof	🙃	1f643	1
+Ruben Bloemhof	🤢	1f922	2
+Ruben Bloemhof	😪	1f62a	1
++31 6 13898593	😂	1f602	1
+Edgar Peet	🥇	1f947	1
+Edgar Peet	👍	1f44d	6
+Edgar Peet	😂	1f602	1
+Edgar Peet	😜	1f61c	3
+Edgar Peet	🤪	1f92a	1
+Edgar Peet	😋	1f60b	1
+Edgar Peet	😀	1f600	1
+Wouter Wellink	😀	1f600	4
+Wouter Wellink	😇	1f607	1
+Wouter Wellink	👍	1f44d	12
+Wouter Wellink	😁	1f601	9
+Wouter Wellink	😃	1f603	2
+Wouter Wellink	😜	1f61c	5
+Wouter Wellink	🤪	1f92a	1
+Wouter Wellink	😉	1f609	5
+Wouter Wellink	🤨	1f928	2
+Wouter Wellink	👌	1f44c	2
+Wouter Wellink	😏	1f60f	1
+Wouter Wellink	🤗	1f917	1
+Wouter Wellink	🥂	1f942	1
+Wouter Wellink	🍻	1f37b	1
+Wouter Wellink	🤙	1f919	1
+Wouter Wellink	✍	270d	1
+Wouter Wellink	✅	2705	1
+Wouter Wellink	🤔	1f914	1
+Wouter Wellink	💪	1f4aa	2
+Wouter Wellink	👏	1f44f	2
+Wouter Wellink	☝	261d	2
+Wouter Wellink	🤣	1f923	1
+Wouter Wellink	❤	2764	1
+Wouter Wellink	😌	1f60c	1
+Alfons Geurts	🍻	1f37b	2
+Alfons Geurts	🎶	1f3b6	3
+Alfons Geurts	😉	1f609	4
+Alfons Geurts	🥁	1f941	1
+Alfons Geurts	👍	1f44d	2
+Alfons Geurts	❤	2764	1
+Alfons Geurts	😁	1f601	3
+Alfons Geurts	👌	1f44c	1
+Alfons Geurts	😂	1f602	1
+Alfons Geurts	😃	1f603	2
+Alfons Geurts	🎤	1f3a4	1
+Dirk Grootendorst	😉	1f609	1
+Dirk Grootendorst	🤗	1f917	2
+Dirk Grootendorst	🎵	1f3b5	1
+Dirk Grootendorst	😀	1f600	2
+Jeroen Terstegge	👽	1f47d	1
+Jeroen Terstegge	🐣	1f423	1
+Jeroen Terstegge	🐥	1f425	1
+Jeroen Terstegge	👻	1f47b	1
+Jeroen Terstegge	😂	1f602	7
+Jeroen Terstegge	⚒	2692	1
+Jeroen Terstegge	🏚	1f3da	1
+Jeroen Terstegge	🤣	1f923	2
+Jeroen Terstegge	🙄	1f644	2
+Jeroen Terstegge	😷	1f637	1
+Jeroen Terstegge	🤔	1f914	1
+Jeroen Terstegge	👨	1f468	1
+Jeroen Terstegge	🦳	1f9b3	1
+Jeroen Terstegge	🥳	1f973	1
+Jeroen Terstegge	😴	1f634	2
++49 176 62109496	😎	1f60e	1
++49 176 62109496	😁	1f601	1
++49 176 62109496	👍	1f44d	1
++49 176 62109496	🏻	1f3fb	1
+Freek Postma	😭	1f62d	1
+Sander Van Gessel	👍	1f44d	11
+Sander Van Gessel	🤔	1f914	10
+Sander Van Gessel	😁	1f601	21
+Sander Van Gessel	😉	1f609	17
+Sander Van Gessel	🤞	1f91e	3
+Sander Van Gessel	🎼	1f3bc	1
+Sander Van Gessel	−	2212	1
+Sander Van Gessel	😜	1f61c	14
+Sander Van Gessel	😱	1f631	1
+Sander Van Gessel	🤨	1f928	1
+Sander Van Gessel	🤣	1f923	8
+Sander Van Gessel	😭	1f62d	2
+Sander Van Gessel	🍾	1f37e	3
+Sander Van Gessel	🥂	1f942	1
+Sander Van Gessel	🎆	1f386	1
+Sander Van Gessel	🎤	1f3a4	2
+Sander Van Gessel	🤪	1f92a	1
+Sander Van Gessel	👊	1f44a	1
+Sander Van Gessel	🍻	1f37b	4
+Sander Van Gessel	🤕	1f915	1
+Sander Van Gessel	🎉	1f389	3
+Sander Van Gessel	😂	1f602	2
+Sander Van Gessel	🎊	1f38a	1
+Sander Van Gessel	😎	1f60e	2
+Sander Van Gessel	🐴	1f434	1
+Sander Van Gessel	🥳	1f973	3
+Sander Van Gessel	🤩	1f929	1
+Sander Van Gessel	🤹	1f939	1
+Sander Van Gessel	♂	2642	1
+Sander Van Gessel	🥇	1f947	1
+Sander Van Gessel	💔	1f494	1
+Sander Van Gessel	🍹	1f379	1
+Sander Van Gessel	🥃	1f943	1
+Sander Van Gessel	🍸	1f378	1
+Sander Van Gessel	🥤	1f964	1
+Sander Van Gessel	🍷	1f377	1
+Sander Van Gessel	😨	1f628	1
+Sander Van Gessel	🙄	1f644	3
+Sander Van Gessel	💪	1f4aa	1
+Sander Van Gessel	😬	1f62c	1
+Sander Van Gessel	😴	1f634	1
+Sander Van Gessel	😏	1f60f	1
+Sander Van Gessel	🐑	1f411	1
+Sander Van Gessel	🤥	1f925	1
+Sander Van Gessel	💴	1f4b4	1
+Sander Van Gessel	🤤	1f924	1
+Peter van Eik	😉	1f609	1
+Peter van Eik	🙂	1f642	9
+Peter van Eik	🤖	1f916	1
+Peter van Eik	🤛	1f91b	3
+Peter van Eik	👀	1f440	1
+Peter van Eik	👮	1f46e	2
+Peter van Eik	♀	2640	1
+Peter van Eik	🙀	1f640	2
+Peter van Eik	😜	1f61c	1
+Peter van Eik	🍔	1f354	1
+Peter van Eik	🙏	1f64f	1
+Peter van Eik	💕	1f495	1
+Peter van Eik	⛪	26ea	1
+Peter van Eik	🎅	1f385	1
+Peter van Eik	😠	1f620	1
+Peter van Eik	🦁	1f981	1
+Peter van Eik	👑	1f451	1
+Peter van Eik	🍸	1f378	1
+Peter van Eik	🎹	1f3b9	1
+Peter van Eik	🤵	1f935	1
+Peter van Eik	👩	1f469	1
+Peter van Eik	👴	1f474	1
+Peter van Eik	♂	2642	1
+Peter van Eik	🛫	1f6eb	1
+Peter van Eik	🤣	1f923	1
+Peter van Eik	😂	1f602	1
++31 6 53852859	👍	1f44d	1
++31 6 53852859	😅	1f605	1
+Mark Mink	🎼	1f3bc	1
+Mark Mink	🎶	1f3b6	7
+Mark Mink	😉	1f609	1
+Mark Mink	👊	1f44a	1
+Mark Mink	🏻	1f3fb	2
+Mark Mink	🥳	1f973	2
+Mark Mink	👆	1f446	1
+Eppo Moens	👍	1f44d	13
+Eppo Moens	🏻	1f3fb	15
+Eppo Moens	🍺	1f37a	4
+Eppo Moens	🍾	1f37e	4
+Eppo Moens	😉	1f609	5
+Eppo Moens	🤣	1f923	4
+Eppo Moens	🎓	1f393	1
+Eppo Moens	🍓	1f353	1
+Eppo Moens	🏑	1f3d1	1
+Eppo Moens	🤜	1f91c	1
+Eppo Moens	😆	1f606	5
+Eppo Moens	😜	1f61c	5
+Eppo Moens	🤔	1f914	2
+Eppo Moens	👊	1f44a	1
+Eppo Moens	❎	274e	1
+Eppo Moens	😭	1f62d	2
+Eppo Moens	🎂	1f382	1
+Eppo Moens	🍻	1f37b	5
+Eppo Moens	😂	1f602	2
+Eppo Moens	👏	1f44f	1
++31 6 21593207	🤣	1f923	1
+Gerben Blaauw	😭	1f62d	1
+Gerben Blaauw	🤪	1f92a	1
++31 6 54696445	💪	1f4aa	1
++31 6 54696445	🍰	1f370	1
++31 6 54696445	🎂	1f382	2
++31 6 54696445	👍	1f44d	1
++31 6 54696445	😀	1f600	2
++31 6 54696445	😄	1f604	1
+Gerben	😉	1f609	3
+Gerben	🙂	1f642	1
+Joost	🎈	1f388	1
++31 6 13175247	😳	1f633	1

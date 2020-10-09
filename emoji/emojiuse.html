@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  background-color: lightgray;
+}
+#table, #table2{
+    background-color: white;
+    width: 80%;
+}
+td{
+    padding:3px;
+}
+th  {
+  transform: 
+    /* Magic Numbers */
+    /* translate(25px, 51px) */
+    /* 45 is really 360 - 45 */
+    rotate(315deg);
+  width: 30px;
+}
+.emoji{
+    font-size: xx-large;
+    cursor: pointer;
+}
+
+</style>
+
+<script src="lib/lodash.js"></script>
+<script src="lib/d3.v4.min.js"></script>
+<script src="lib/thenBy.min.js"></script>
+
+<script>
+function preprocess(data){
+    data.forEach(d =>{
+        d.count = +d.count;
+    });
+    var users = _.uniq(_.map(data, "name"));
+    var emoji = _.uniq(_.map(data, "emoji"));
+    var codepoints = {};
+    data.forEach(d =>{
+        codepoints[d.emoji] = d.codepoint;
+    });
+    
+
+    var usersPerEmoji = {};
+    emoji.forEach((em) => {
+        usersPerEmoji[em] = data.filter(d => d.emoji === em).reduce((acc, d)=>{
+            acc.perUser[d.name] = d.count;
+            acc.total += d.count;
+            acc.distinct++;
+            return acc;
+        }, {total:0, distinct:0, perUser:{}});
+    }); 
+    var emojiPerUser = {};
+    users.forEach((user) => {
+        emojiPerUser[user] = data.filter(d => d.name === user).reduce((acc, d)=>{
+            acc.perEmoji[d.emoji] = d.count;
+            acc.total += d.count;
+            acc.distinct++;
+            return acc;
+        }, {total:0, distinct:0, perEmoji:{}});
+    }); 
+    var fullTotal = users.reduce((t, n)=> t + emojiPerUser[n].total, 0);
+
+    return {
+        users:users.sort(firstBy(n => emojiPerUser[n].total, {direction:-1})),
+        emoji:emoji.sort(firstBy(e => usersPerEmoji[e].total, {direction:-1})),
+        emojiPerUser: emojiPerUser,
+        usersPerEmoji: usersPerEmoji,
+        fullTotal: fullTotal,
+        codepoints : codepoints
+    };
+}
+function perUserCount(data, user, em){
+    return data.emojiPerUser[user].perEmoji[em];
+}
+function perUserRelative(data, user, em){
+    return data.emojiPerUser[user].perEmoji[em] / data.usersPerEmoji[em].total;
+}
+function mostUsedEmoji(data, user){
+    return topEmoji(data, perUserCount, user);
+}
+function mostUsedEmojiRelative(data, user){
+    return topEmoji(data, perUserRelative, user);
+}
+
+function topEmoji(data, calc, user){
+    var usedEmoji = Object.keys(data.emojiPerUser[user].perEmoji).map(em => {
+        return {emoji:em, score:calc(data, user, em)}
+    });
+    usedEmoji = usedEmoji.sort(firstBy("score", {direction:-1}));
+    return usedEmoji[0];
+}
+function mostUsedBy(data, em){
+    var usedByUsers = Object.keys(data.usersPerEmoji[em].perUser);
+    usedByUsers = usedByUsers.sort(firstBy(u => data.usersPerEmoji[em].perUser[u], {direction:-1}));
+    return usedByUsers[0];
+}
+function mostUsedByRelative(data, em){
+    var usedByUsers = Object.keys(data.usersPerEmoji[em].perUser);
+    usedByUsers = usedByUsers.filter(u => data.usersPerEmoji[em].perUser[u] > 1);
+    usedByUsers = usedByUsers.sort(firstBy(u => data.usersPerEmoji[em].perUser[u] / data.emojiPerUser[u].total, {direction:-1}));
+    return usedByUsers[0];
+}
+d3.tsv("emojiuse.txt", function(error, data) {
+  if (error) throw error;
+  data = preprocess(data);
+
+  function gotoEmoji(){
+    var trg = d3.event.target;
+    console.log(data.codepoints[trg.innerText]);
+    window.open("http://www.fileformat.info/info/unicode/char/" + data.codepoints[trg.innerText] + "/index.htm", "_blank");
+  }
+
+  var table = d3.select("#table");
+  var head = table.append("tr");
+  head.append("th").text("Naam");
+  head.append("th").text("Totaal emoji");
+  head.append("th").text("Unieke emoji");
+  head.append("th").text("Meest gebruikt");
+  head.append("th").text("");
+  head.append("th").text("Rel. meest gebruikt");
+  head.append("th").text("");
+  var rows = table.selectAll(".row")
+    .data(data.users)
+    .enter()
+    .append("tr")
+        .attr("class", "row");
+  rows.append("td").text(d => d);
+  rows.append("td").text(d => data.emojiPerUser[d].total);
+  rows.append("td").text(d => data.emojiPerUser[d].distinct);
+  rows.append("td").attr("class", "emoji").on("click", gotoEmoji).text(d => mostUsedEmoji(data, d).emoji);
+  rows.append("td").text(d => mostUsedEmoji(data, d).score);
+  rows.append("td").attr("class", "emoji").on("click", gotoEmoji).text(d => mostUsedEmojiRelative(data, d).emoji);
+  rows.append("td").text(d => mostUsedEmojiRelative(data, d).score);
+
+  var table = d3.select("#table2");
+  var head = table.append("tr");
+  head.append("th").text("Emoji");
+  head.append("th").text("Totaal gebruikt");
+  head.append("th").text("Verschillende gebruikers");
+  head.append("th").text("Vaakst door");
+  head.append("th").text("Rel. vaakst door");
+  var rows = table.selectAll(".row")
+    .data(data.emoji)
+    .enter()
+    .append("tr")
+        .attr("class", "row");
+  rows.append("td").attr("class", "emoji").text(d => d);
+  rows.append("td").text(d => data.usersPerEmoji[d].total);
+  rows.append("td").text(d => data.usersPerEmoji[d].distinct);
+  rows.append("td").text(d => mostUsedBy(data, d));
+  rows.append("td").text(d => mostUsedByRelative(data, d));
+});
+
+</script>
+</head>
+<body>
+    <h3>Emoji use</h3>
+
+    <h4>About</h4>
+    Geteld zijn alle emoji gebruikt in de PiRho groep van 18-01-2015 tot 27-07-17. Meerdere identieke emoji in 1 bericht worden geteld als 1. Dus bijvoorbeeld
+    <pre>22-03-16, 19:11 - Hans Ebbers: 👍👍👍👍👍</pre>
+    telt als 1 👍 voor Hans. Overigens kunnen dan nog steeds sommigen emoji-virtuozer lijken dan zij werkelijk zijn. Bijvoorbeeld:
+    <pre>17-06-17, 22:02 - Janco van der Molen: 😂👍🏻😜🖐🏻😁👏🏻😈✌🏻😳😓😱🎼😢🤡😔😄😍😋😋🤓😊🙂😉😜🤡🤗😚😜🤠🤠🙁😟😟👾😻🤕👿👹🙀☠💀🤔🤐👺👾👽💀🤕😬👺🤖😻💀😈😬🤐👹😽☠☠🤕😬🤐👹👾😹💀🤒🤥😬🤐👹🤖😼😻👿👿👹👺🤖👾😻☠☠😹💀🤕🤥🤐👹🤖👾🤼‍♂🤺🥊🥋🏒🏏🏐🏉⛳⛹‍♀⛸
+</pre>
+
+    <h4>Meest emojionele gebruikers</h4>
+    <div id="table"></div>
+    <h4>Meest gebruikte emoji</h4>
+    <div id="table2"></div>
+</body>
