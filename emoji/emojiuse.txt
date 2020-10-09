@@ -80,7 +80,6 @@ Tonko Jansen	🛢	1f6e2	1
 Tonko Jansen	🍾	1f37e	8
 Tonko Jansen	🤪	1f92a	2
 Tonko Jansen	😄	1f604	6
-Tonko Jansen	🏻	1f3fb	8
 Tonko Jansen	💣	1f4a3	1
 Tonko Jansen	🍻	1f37b	2
 Tonko Jansen	🥂	1f942	4
@@ -100,7 +99,6 @@ Hans Ebbers	😎	1f60e	11
 Hans Ebbers	😂	1f602	166
 Hans Ebbers	🤗	1f917	10
 Hans Ebbers	🏼	1f3fc	7
-Hans Ebbers	🏻	1f3fb	103
 Hans Ebbers	👍	1f44d	59
 Hans Ebbers	😉	1f609	102
 Hans Ebbers	🎵	1f3b5	38
@@ -351,7 +349,6 @@ Tim Bakker	🤔	1f914	6
 Tim Bakker	🤓	1f913	1
 Tim Bakker	😊	1f60a	1
 Tim Bakker	👌	1f44c	2
-Tim Bakker	🏻	1f3fb	20
 Tim Bakker	😜	1f61c	9
 Tim Bakker	🌭	1f32d	1
 Tim Bakker	🌝	1f31d	1
@@ -469,7 +466,6 @@ Arjan Huizinga	😬	1f62c	1
 Arjan Huizinga	😝	1f61d	2
 Arjan Huizinga	😘	1f618	5
 Arjan Huizinga	👍	1f44d	7
-Arjan Huizinga	🏻	1f3fb	19
 Arjan Huizinga	💪	1f4aa	13
 Arjan Huizinga	🙈	1f648	3
 Arjan Huizinga	😉	1f609	1
@@ -503,7 +499,6 @@ Scott	😁	1f601	1
 Scott	😝	1f61d	1
 Maurits de Kuijper	😄	1f604	2
 Maurits de Kuijper	👌	1f44c	3
-Maurits de Kuijper	🏻	1f3fb	4
 Maurits de Kuijper	😢	1f622	1
 Maurits de Kuijper	😜	1f61c	2
 Maurits de Kuijper	🎈	1f388	1
@@ -603,7 +598,6 @@ Karel van der Lingen	🏽	1f3fd	1
 Karel van der Lingen	🦱	1f9b1	1
 Karel van der Lingen	🦷	1f9b7	1
 Karel van der Lingen	🏃	1f3c3	1
-Karel van der Lingen	🏻	1f3fb	1
 Karel van der Lingen	🦋	1f98b	1
 Karel van der Lingen	➰	27b0	1
 Karel van der Lingen	🚪	1f6aa	1
@@ -648,7 +642,6 @@ Karel van der Lingen	🦧	1f9a7	1
 Karel van der Lingen	🙄	1f644	1
 Karel van der Lingen	🙃	1f643	1
 Niek Van Doorn	👍	1f44d	2
-Niek Van Doorn	🏻	1f3fb	4
 Niek Van Doorn	🤔	1f914	18
 Niek Van Doorn	🎶	1f3b6	4
 Niek Van Doorn	😦	1f626	1
@@ -845,7 +838,6 @@ Jaap Gritter	👑	1f451	1
 Jaap Gritter	😍	1f60d	4
 Jaap Gritter	😂	1f602	51
 Jaap Gritter	💪	1f4aa	4
-Jaap Gritter	🏻	1f3fb	25
 Jaap Gritter	❤	2764	6
 Jaap Gritter	😡	1f621	3
 Jaap Gritter	😇	1f607	5
@@ -896,7 +888,6 @@ Steven Bouman	🙄	1f644	2
 Steven Bouman	👆	1f446	1
 Steven Bouman	🏽	1f3fd	1
 Steven Bouman	👊	1f44a	7
-Steven Bouman	🏻	1f3fb	12
 Steven Bouman	😙	1f619	3
 Steven Bouman	🥳	1f973	1
 Steven Bouman	😬	1f62c	1
@@ -990,10 +981,8 @@ Emile Ripke	😏	1f60f	1
 Emile Ripke	🙏	1f64f	1
 Emile Ripke	☀	2600	1
 Hanjo Scheltens	👍	1f44d	2
-Hanjo Scheltens	🏻	1f3fb	2
 Hanjo Scheltens	😳	1f633	1
 Wouter Vermeulen	👍	1f44d	121
-Wouter Vermeulen	🏻	1f3fb	133
 Wouter Vermeulen	🍻	1f37b	14
 Wouter Vermeulen	😂	1f602	55
 Wouter Vermeulen	🎼	1f3bc	64
@@ -1066,7 +1055,6 @@ Koen vd Glindt	🎵	1f3b5	6
 Koen vd Glindt	🎶	1f3b6	9
 Koen vd Glindt	🙃	1f643	2
 Koen vd Glindt	🖐	1f590	1
-Koen vd Glindt	🏻	1f3fb	7
 Koen vd Glindt	🍺	1f37a	1
 Koen vd Glindt	😭	1f62d	1
 Koen vd Glindt	🚀	1f680	1
@@ -1142,7 +1130,6 @@ Janco Aspi	😍	1f60d	1
 Janco Aspi	🤬	1f92c	1
 Janco Aspi	❓	2753	1
 Janco Aspi	❌	274c	1
-Janco Aspi	🏻	1f3fb	4
 Janco Aspi	🎉	1f389	2
 Janco Aspi	👏	1f44f	1
 Janco Aspi	🎼	1f3bc	1
@@ -1158,7 +1145,6 @@ Onno van Woerden	😃	1f603	2
 Onno van Woerden	🙂	1f642	1
 Onno van Woerden	😄	1f604	1
 Onno van Woerden	👍	1f44d	3
-Onno van Woerden	🏻	1f3fb	2
 Onno van Woerden	😜	1f61c	1
 Onno van Woerden	😁	1f601	1
 Onno van Woerden	😂	1f602	1
@@ -1169,7 +1155,6 @@ Maurits (Mutu)	😑	1f611	1
 Maurits (Mutu)	💥	1f4a5	1
 Maurits (Mutu)	😆	1f606	2
 Maurits (Mutu)	👍	1f44d	8
-Maurits (Mutu)	🏻	1f3fb	12
 Maurits (Mutu)	🍾	1f37e	5
 Maurits (Mutu)	🙋	1f64b	2
 Maurits (Mutu)	♀	2640	1
@@ -1213,7 +1198,6 @@ Daan Timmer	♂	2642	2
 Daan Timmer	😘	1f618	1
 Daan Timmer	🤢	1f922	1
 Daan Timmer	👱	1f471	1
-Daan Timmer	🏻	1f3fb	4
 Daan Timmer	♀	2640	1
 Daan Timmer	😢	1f622	1
 Daan Timmer	😋	1f60b	3
@@ -1236,7 +1220,6 @@ Harm Heimeriks	😁	1f601	10
 Harm Heimeriks	😱	1f631	5
 Harm Heimeriks	👊	1f44a	1
 Harm Heimeriks	👼	1f47c	1
-Harm Heimeriks	🏻	1f3fb	3
 Harm Heimeriks	🍾	1f37e	1
 Harm Heimeriks	🥂	1f942	4
 Harm Heimeriks	🎵	1f3b5	55
@@ -1276,7 +1259,6 @@ Maarten Hemmes	🥳	1f973	2
 Maarten Hemmes	😕	1f615	1
 Maarten Hemmes	😐	1f610	1
 Maarten Hemmes	💪	1f4aa	1
-Maarten Hemmes	🏻	1f3fb	1
 Maarten Hemmes	😊	1f60a	1
 Maarten Hemmes	😬	1f62c	2
 Maarten Hemmes	😎	1f60e	1
@@ -1358,7 +1340,6 @@ Robert Bekker	✋	270b	1
 Ruben Bloemhof	🤔	1f914	4
 Ruben Bloemhof	😌	1f60c	3
 Ruben Bloemhof	👌	1f44c	5
-Ruben Bloemhof	🏻	1f3fb	13
 Ruben Bloemhof	😏	1f60f	2
 Ruben Bloemhof	❤	2764	6
 Ruben Bloemhof	👍	1f44d	10
@@ -1453,7 +1434,6 @@ Jeroen Terstegge	😴	1f634	2
 +49 176 62109496	😎	1f60e	1
 +49 176 62109496	😁	1f601	1
 +49 176 62109496	👍	1f44d	1
-+49 176 62109496	🏻	1f3fb	1
 Freek Postma	😭	1f62d	1
 Sander Van Gessel	👍	1f44d	11
 Sander Van Gessel	🤔	1f914	10
@@ -1533,11 +1513,9 @@ Mark Mink	🎼	1f3bc	1
 Mark Mink	🎶	1f3b6	7
 Mark Mink	😉	1f609	1
 Mark Mink	👊	1f44a	1
-Mark Mink	🏻	1f3fb	2
 Mark Mink	🥳	1f973	2
 Mark Mink	👆	1f446	1
 Eppo Moens	👍	1f44d	13
-Eppo Moens	🏻	1f3fb	15
 Eppo Moens	🍺	1f37a	4
 Eppo Moens	🍾	1f37e	4
 Eppo Moens	😉	1f609	5

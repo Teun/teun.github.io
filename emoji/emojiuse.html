@@ -80,7 +80,10 @@ function perUserCount(data, user, em){
     return data.emojiPerUser[user].perEmoji[em];
 }
 function perUserRelative(data, user, em){
-    return data.emojiPerUser[user].perEmoji[em] / data.usersPerEmoji[em].total;
+    if(data.emojiPerUser[user].perEmoji[em] < 2) return -1;
+    var fractionOfThisUser = data.emojiPerUser[user].perEmoji[em]/data.emojiPerUser[user].total;
+    var fractionInTotal = data.usersPerEmoji[em].total/data.fullTotal;
+    return fractionOfThisUser/fractionInTotal;
 }
 function mostUsedEmoji(data, user){
     return topEmoji(data, perUserCount, user);
@@ -106,6 +109,12 @@ function mostUsedByRelative(data, em){
     usedByUsers = usedByUsers.filter(u => data.usersPerEmoji[em].perUser[u] > 1);
     usedByUsers = usedByUsers.sort(firstBy(u => data.usersPerEmoji[em].perUser[u] / data.emojiPerUser[u].total, {direction:-1}));
     return usedByUsers[0];
+}
+
+var percentFormat = d3.format(".0%");
+var fixed = d3.format("0.2f");
+var timesFormat = (v) => {
+    return fixed(v) + " x";
 }
 d3.tsv("emojiuse.txt", function(error, data) {
   if (error) throw error;
@@ -137,7 +146,7 @@ d3.tsv("emojiuse.txt", function(error, data) {
   rows.append("td").attr("class", "emoji").on("click", gotoEmoji).text(d => mostUsedEmoji(data, d).emoji);
   rows.append("td").text(d => mostUsedEmoji(data, d).score);
   rows.append("td").attr("class", "emoji").on("click", gotoEmoji).text(d => mostUsedEmojiRelative(data, d).emoji);
-  rows.append("td").text(d => mostUsedEmojiRelative(data, d).score);
+  rows.append("td").text(d => timesFormat(mostUsedEmojiRelative(data, d).score));
 
   var table = d3.select("#table2");
   var head = table.append("tr");
@@ -165,7 +174,7 @@ d3.tsv("emojiuse.txt", function(error, data) {
 
     <h4>About</h4>
     Geteld zijn alle emoji gebruikt in de PiRho groep van 18-06-2017 tot 08-10-2020. Meerdere identieke emoji in 1 bericht worden geteld als 1. Dus bijvoorbeeld
-    <pre>22-03-16, 19:11 - Hans Ebbers: 👍👍👍👍👍</pre>
+    <pre>22-03-2016, 19:11 - Hans Ebbers: 👍👍👍👍👍</pre>
     telt als 1 👍 voor Hans. 
 
     <h4>Meest emojionele gebruikers</h4>
