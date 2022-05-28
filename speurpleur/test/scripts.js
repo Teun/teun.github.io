@@ -16,7 +16,7 @@ function geoFindMe(status, resultFound, resultNotFound, lat, lng, letter, nextLe
         const dir = window.geolib.getCompassDirection(curr, target);
 
         status.innerHTML = `<p>Punt <span class="blue">${letter}</span></p><p>is op ${dist} meter</p><p>in richting <span class="compass">${dir}</span>.</p>
-        <p>[speed: ${position.coords.speed}, bearing: ${position.coords.heading}]</p>`;
+        <p>[accuracy: ${position.coords.accuracy}, speed: ${position.coords.speed}, direction: ${position.coords.heading}]</p>`;
     }
 
     function error() {
