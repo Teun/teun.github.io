@@ -28,6 +28,9 @@
             font-size: larger;
             font-weight: 600;
         }
+        .result {
+            text-align: center;
+        }
         .result>#found {
             display: none;
             border: solid 2px green;
@@ -48,14 +51,12 @@
         <div id="found">
             Opdracht
         </div>
+        <div id="next"></div>
     </div>
 </body>
 <script src="geolib.js"></script>
 <script src="scripts.js"></script>
 <script>
-const status = document.querySelector('#status');
-const found = document.querySelector('.result>#found');
-const notFound = document.querySelector('.result>#notFound');
-geoFindMe(status, found, notFound, 52.082398, 5.134383, 'π');
+pageInit(52.093445, 5.117534, 'π', '\u03D1')
 </script>
 </html>

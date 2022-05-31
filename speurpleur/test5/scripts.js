@@ -1,4 +1,12 @@
-function geoFindMe(status, resultFound, resultNotFound, lat, lng, letter, nextLetter) {
+function pageInit(lat, lng, letter, nextLetter) {
+    const status = document.querySelector('#status');
+    const found = document.querySelector('.result>#found');
+    const nextBlock = document.querySelector('.result>#next');
+    const notFound = document.querySelector('.result>#notFound');
+    geoFindMe(status, found, notFound, nextBlock, lat, lng, letter, nextLetter);
+}
+
+function geoFindMe(status, resultFound, resultNotFound, nextBlock, lat, lng, letter, nextLetter) {
     const target = {latitude: lat, longitude: lng};
     var watch = 0;
 
@@ -17,7 +25,7 @@ function geoFindMe(status, resultFound, resultNotFound, lat, lng, letter, nextLe
         const icons = getIconsFor(position.coords, curr, target);
         const track = `<p>Punt <span class="blue">${letter}</span></p><p>is op ${dist} meter</p><p>in richting <span class="compass">${dir}</span>.</p>`;
         const extra = `        <p>[accuracy: ${position.coords.accuracy}, speed: ${position.coords.speed}, direction: ${position.coords.heading}]</p>`;
-        status.innerHTML = icons + track + extra;
+        status.innerHTML = icons + track; // + extra;
     }
 
     function error() {
@@ -28,6 +36,7 @@ function geoFindMe(status, resultFound, resultNotFound, lat, lng, letter, nextLe
         status.innerHTML = `<p>Punt <span class="blue">${letter}</span></p><p>GEVONDEN</p>`;
         resultFound.style.display = 'block';
         resultNotFound.style.display = 'none';
+        nextBlock.innerHTML = `<p>Ga nu naar punt <span class="blue">${nextLetter}</span></p>`;
     }
 
     if (!navigator.geolocation) {
@@ -41,9 +50,5 @@ function geoFindMe(status, resultFound, resultNotFound, lat, lng, letter, nextLe
 }
 function getIconsFor(coords, curr, target) {
     if (coords.accuracy > 20) return "Status: Zwak GPS signaal";
-    var walker = String.fromCodePoint(0x1f9cd);
-    if (coords.speed > .5) walker = String.fromCodePoint(0x1f6b6);
-    if (coords.speed > 1.2) walker = String.fromCodePoint(0x1f3c3);
-
-    return `Status: ${walker}`;
+    return "";
 }
