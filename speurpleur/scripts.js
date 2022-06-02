@@ -23,7 +23,7 @@ function geoFindMe(status, resultFound, resultNotFound, nextBlock, lat, lng, let
         }
         const dir = window.geolib.getCompassDirection(curr, target);
         const icons = getIconsFor(position.coords, curr, target);
-        const track = `<p>Punt <span class="blue">${letter}</span></p><p>is op ${dist} meter</p><p>in richting <span class="compass">${dir}</span>.</p>`;
+        const track = `<p>Punt <span class="red">${letter}</span></p><p>is op ${dist} meter</p><p>in richting <span class="compass">${dir}</span>.</p>`;
         const extra = `        <p>[accuracy: ${position.coords.accuracy}, speed: ${position.coords.speed}, direction: ${position.coords.heading}]</p>`;
         status.innerHTML = icons + track; // + extra;
     }
@@ -33,10 +33,13 @@ function geoFindMe(status, resultFound, resultNotFound, nextBlock, lat, lng, let
     }
     function endSearch(){
         navigator.geolocation.clearWatch(watch);
-        status.innerHTML = `<p>Punt <span class="blue">${letter}</span></p><p>GEVONDEN</p>`;
+        status.innerHTML = `<p>Punt <span class="red">${letter}</span></p><p>GEVONDEN</p>`;
         resultFound.style.display = 'block';
         resultNotFound.style.display = 'none';
-        nextBlock.innerHTML = `<p>Ga nu naar punt <span class="blue">${nextLetter}</span></p>`;
+
+        nextBlock.style.display = 'block';
+        if(nextLetter)
+            nextBlock.innerHTML = `<p>Ga nu naar punt <span class="red">${nextLetter}</span></p>`;
     }
 
     if (!navigator.geolocation) {
