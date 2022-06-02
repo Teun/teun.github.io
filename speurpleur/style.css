@@ -1,0 +1,38 @@
+body {
+    font-size: xx-large;
+    font-family: sans-serif
+}
+#status {
+    text-align: center;
+}
+span.red {
+    background: #aa1111;
+    border-radius: 0.8em;
+    -moz-border-radius: 0.8em;
+    -webkit-border-radius: 0.8em;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 1.6em;
+    text-align: center;
+    width: 1.6em;
+    font-family: cursive;
+}
+span.compass {
+    font-size: larger;
+    font-weight: 600;
+}
+.result {
+    text-align: center;
+}
+.result>#found {
+    display: none;
+    border: solid 2px green;
+}
+.result>#notFound {
+    display: none;
+    border: solid 2px orange;
+}
+.result>#next {
+    display: none;
+}
