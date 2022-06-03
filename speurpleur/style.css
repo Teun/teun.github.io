@@ -27,7 +27,12 @@ span.compass {
 }
 .result>#found {
     display: none;
+    font-size: x-large;
+    text-align: left;
     border: solid 2px green;
+}
+.result pre {
+    font-size: large;
 }
 .result>#notFound {
     display: none;
