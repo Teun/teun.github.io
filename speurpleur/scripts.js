@@ -49,7 +49,7 @@ function geoFindMe(status, resultFound, resultNotFound, nextBlock, lat, lng, let
         resultNotFound.style.display = 'block';
         watch = navigator.geolocation.watchPosition(success, error);
     }
-    resultNotFound.addEventListener('click', endSearch);
+    //resultNotFound.addEventListener('click', endSearch);
 
 }
 function getIconsFor(coords, curr, target) {
