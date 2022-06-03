@@ -30,6 +30,7 @@ span.compass {
     font-size: x-large;
     text-align: left;
     border: solid 2px green;
+    padding: 0.5em;
 }
 .result pre {
     font-size: large;
